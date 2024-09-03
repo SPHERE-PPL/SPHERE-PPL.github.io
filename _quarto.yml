@@ -15,8 +15,8 @@ website:
       - href: index.qmd
         text: Home
       - Team.qmd
-      - sidebar:f
       - sidebar:a
+      - sidebar:f
       - get_involved.qmd 
   
   sidebar:
