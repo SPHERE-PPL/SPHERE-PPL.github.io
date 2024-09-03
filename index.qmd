@@ -1,5 +1,5 @@
 ---
-title: "Turing PPL"
+title: "Probabilistic Programming Languages Community at the Turing Institute"
 image: images/turing.jpg
 
 about: 
@@ -15,6 +15,22 @@ about:
       href: mailto:jtyler@turing.ac.uk
 ---
 
-# Probabilistic Programming Languages Community at the Turing Institute
 
 
+
+<style>
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  -ms-transform: translateX(+100%);
+  transform: translateX(+100%);
+}
+</style>
+<div class="container">
+  <div class="vertical-center">
+  <a href=get_involved.qmd>
+    <button type="button" class="btn btn-primary btn-lg">Get Involved!</button>
+  </a>
+  </div>
+</div>

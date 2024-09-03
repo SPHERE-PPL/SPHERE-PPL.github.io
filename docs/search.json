@@ -1,23 +1,43 @@
 [
   {
+    "objectID": "Annual_Meetings/AM_2024.html",
+    "href": "Annual_Meetings/AM_2024.html",
+    "title": "Annual Meeting 2024",
+    "section": "",
+    "text": "More Information Coming Soon!",
+    "crumbs": [
+      "Annual Meeting 2024"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Turing PPL",
+    "title": "Probabilistic Programming Languages Community at the Turing Institute",
     "section": "",
-    "text": "Probabilistic Programming Languages Community at the Turing Institute"
+    "text": "Get Involved!"
+  },
+  {
+    "objectID": "Forecasting_Competitions/Winter_2024.html",
+    "href": "Forecasting_Competitions/Winter_2024.html",
+    "title": "Winter 2024 - Vector-Borne Diseases",
+    "section": "",
+    "text": "More Information Coming Soon!",
+    "crumbs": [
+      "Winter 2024 - Vector-Borne Diseases"
+    ]
   },
   {
     "objectID": "Team.html",
     "href": "Team.html",
     "title": "Meet The Team",
     "section": "",
-    "text": "Dr Will Pearse\nDr Will Pearse is a Reader in Evolutionary Ecology at Imperial College London. His lab develops new statistical and computational methods to better understand how species’ evolutionary history to better understand and predict their present-day ecology. He has worked with AI methods for most of his career, developing automated DNA analysis pipelines, birdsong detectors, and various automated image and video analysis tools. His lab use Probabilistic Programming Languages to solve a variety of statistical modelling problems, notably forecasting COVID-19 dynamics. His research work at the Turing focuses on building a solid research community based around probabilistic programming language by making conceptual advances in climate changes, human health, spatial modelling, forecasting contests to support decision-makers and developing training resources.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Juliette Uniwn\nDr Juliette Unwin is a Lecturer in Statistical Science in the School of Mathematics at the University of Bristol alongside being an Academic Visitor in the Department of Infectious Disease Epidemiology at Imperial College, London. She is an active member of MLGH, the Machine Learning and Global Health Network. She holds a Masters in Engineering from the University of Southampton and a PhD in Engineering from the University of Cambridge. Dr Unwin’s research revolves around developing and applying novel methods for infectious disease outbreak analysis to help inform policy makers in real time. Currently, she focuses on developing spatial temporal renewal based transmission models alongside estimating the number of children affected by COVID-19 and crises. Her research at the Turing focuses on advancing the adoption of Probabilistic Programming languages.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Seth Flaxman\nDr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University. Dr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University.\n\n\n\n\n\n\n\n\n\n\n\n\nRuth Drysdale\nComing Soon.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Josh Tyler\nDr Josh Tyler is a Post Doc at the Turing Institute with a focus on biodiversity and modelling. He is particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity. His current project looks to investigate how probabilistic programming can improve biodiversity function predictions."
+    "text": "Dr Will Pearse\nDr Will Pearse is a Reader in Evolutionary Ecology at Imperial College London. His lab develops new statistical and computational methods to better understand how species’ evolutionary history to better understand and predict their present-day ecology. He has worked with AI methods for most of his career, developing automated DNA analysis pipelines, birdsong detectors, and various automated image and video analysis tools. His lab use Probabilistic Programming Languages to solve a variety of statistical modelling problems, notably forecasting COVID-19 dynamics. His research work at the Turing focuses on building a solid research community based around probabilistic programming language by making conceptual advances in climate changes, human health, spatial modelling, forecasting contests to support decision-makers and developing training resources.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Juliette Uniwn\nDr Juliette Unwin is a Lecturer in Statistical Science in the School of Mathematics at the University of Bristol alongside being an Academic Visitor in the Department of Infectious Disease Epidemiology at Imperial College, London. She is an active member of MLGH, the Machine Learning and Global Health Network. She holds a Masters in Engineering from the University of Southampton and a PhD in Engineering from the University of Cambridge. Dr Unwin’s research revolves around developing and applying novel methods for infectious disease outbreak analysis to help inform policy makers in real time. Currently, she focuses on developing spatial temporal renewal based transmission models alongside estimating the number of children affected by COVID-19 and crises. Her research at the Turing focuses on advancing the adoption of Probabilistic Programming languages.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Seth Flaxman\nDr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University. Dr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Josh Tyler\nDr Josh Tyler is a Post Doc at the Turing Institute with a focus on biodiversity and modelling. He is particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity. His current project looks to investigate how probabilistic programming can improve biodiversity function predictions.\n\n\n\n\n\n\n\n\n\n\n\n\nRuth Drysdale\nRuth is the Programme Manager for Artificial Intelligence at the Turing Institute, with a wide portfolio of projects across the Fundamental AI remit."
   },
   {
     "objectID": "get_involved.html",
     "href": "get_involved.html",
     "title": "Get Involved",
     "section": "",
-    "text": "Loading…"
+    "text": "Every year, there will be workshops, meetings and forecasting challenges designed to further the use of Probabilistic Programming across research, industry and policy. To be kept up-to-date with all the latest news and events, consider signing up to our mailing list using the form below:\n\nLoading…"
   }
 ]
