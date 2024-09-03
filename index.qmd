@@ -1,10 +1,10 @@
 ---
-title: "Probabilistic Programming Languages Community at the Turing Institute"
+title: "Probabilistic Programming Languages at Turing"
 image: images/turing.jpg
 
 about: 
-  template: trestles 
-  image-shape: rounded
+  template: jolla
+  image-shape: round
   image-width: 20em
   links: # create buttons
     - icon: github
@@ -15,22 +15,10 @@ about:
       href: mailto:jtyler@turing.ac.uk
 ---
 
+#### Welcome to the Turing Probabilistic Programming Languages Community Page! Here you can find links to all of our events, workshops and training materials.
 
+<p> </p>
 
-
-<style>
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  left: 50%;
-  -ms-transform: translateX(+100%);
-  transform: translateX(+100%);
-}
-</style>
-<div class="container">
-  <div class="vertical-center">
   <a href=get_involved.qmd>
     <button type="button" class="btn btn-primary btn-lg">Get Involved!</button>
   </a>
-  </div>
-</div>

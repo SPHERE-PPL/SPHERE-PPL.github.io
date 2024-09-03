@@ -5,10 +5,12 @@ project:
 website:
   favicon: images/favicon.png
   title: "Turing PPL"
-  bread-crumbs: true
   navbar:
     title: "Turing PPL"
     logo: images/favicon.png
+    tools:
+      - icon: github
+        href: https://github.com/TuringPPL
     right:
       - href: index.qmd
         text: Home
