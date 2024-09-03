@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: images/favicon.png
+  title: "Turing PPL"
+  bread-crumbs: true
+  navbar:
+    title: "Turing PPL"
+    logo: images/favicon.png
+    right:
+      - href: index.qmd
+        text: Home
+      - Team.qmd
+      - sidebar:f
+      - sidebar:a
+      - get_involved.qmd 
+  
+  sidebar:
+    - id: f
+      title: "Forcasting Competitions"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - Forecasting_Competitions/Winter_2024.qmd
+        
+    - id: a
+      title: "Annual Meetings"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - Annual_Meetings/AM_2024.qmd
+        
+  page-footer:
+    border: true
+    left: Copyright 2024 - Turing PPL
+    right:
+      - text: "Probabilistic Programming Languages @ Turing"
+
+format:
+  html:
+    theme:
+      light: flatly
+    css: styles.css
+    toc: false
+    page-layout: article

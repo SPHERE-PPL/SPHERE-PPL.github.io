@@ -1,0 +1,20 @@
+---
+title: "Turing PPL"
+image: images/turing.jpg
+
+about: 
+  template: trestles 
+  image-shape: rounded
+  image-width: 20em
+  links: # create buttons
+    - icon: github
+      text: GitHub
+      href: https://github.com/TuringPPL
+    - icon: envelope
+      text: Email
+      href: mailto:jtyler@turing.ac.uk
+---
+
+# Probabilistic Programming Languages Community at the Turing Institute
+
+
