@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed fullcontent">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -134,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="sidebar-menu-container"> 
@@ -164,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-right" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -173,7 +173,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-right">
 
     
   
@@ -185,13 +185,74 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="more-information-coming-soon" class="level1">
-<h1>More Information Coming Soon!</h1>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This example competition is a work in progress and therefore some of the competition infrastructure is still being organised. The information on this page is also subject to change so please check back intermittently.</p>
+</div>
+</div>
+<p>This is an example competition for the Turing PPL forecasting events. It will have all of the information sections you will find in active competitions and will mostly follow the same rules/timelines.</p>
+<section id="introduction-1" class="level2">
+<h2 class="anchored" data-anchor-id="introduction-1">Introduction&nbsp;<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></h2>
+<p>Mpox is an infectious disease that can cause a painful rash, enlarged lymph nodes, fever, headache, muscle ache, back pain and low energy. Most people fully recover, but some get very sick.&nbsp;</p>
+<p>Mpox is caused by the monkeypox virus (MPXV). It is an enveloped double-stranded DNA virus of the&nbsp;<em>Orthopoxvirus</em>&nbsp;genus in the&nbsp;<em>Poxviridae</em>&nbsp;family, which includes variola, cowpox, vaccinia and other viruses. There are two distinct clades of the virus: clade I (with subclades Ia and Ib) and clade II (with subclades IIa and IIb).</p>
+<p>A global outbreak of clade IIb began in 2022 and continues to this day, including in some African countries. There are also growing outbreaks of clades Ia and Ib affecting the Democratic Republic of the Congo and other countries in Africa. As of August 2024, clade Ib has also been detected beyond Africa.</p>
+<p>The natural reservoir of the virus is unknown, but various small mammals such as squirrels and monkeys are susceptible.</p>
+<p>The dataset included in this forecasting competition covers the period from Jan 2022 to July 2024.</p>
+<p>This competition has its own repository with pre-prepared data (found in the data folder) and a template report (demo_analysis.qmd) which showcases how to load the data, perform analyses and then export results into the correct format. There is also be a folder for any additional scripts that are required.</p>
+</section>
+<section id="forecasting-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="forecasting-outputs">Forecasting Outputs</h2>
+<p>For this example competition, we are looking to forecast monthly regional case numbers for the 6 WHO regions (African, Eastern Mediterranean, European, Region of the Americas, South-East Asia, Western Pacific) for the 12 month following the end of the collected data (i.e.&nbsp;August 2024 - July 2025)</p>
+</section>
+<section id="joining-the-competition-getting-started" class="level2">
+<h2 class="anchored" data-anchor-id="joining-the-competition-getting-started">Joining the Competition &amp; Getting Started</h2>
+<p>The competition repo can be found here: <a href="https://github.com/TuringPPL/Competition-Example-Mpox">Competition-Example-Mpox</a></p>
+</section>
+<section id="rules" class="level2">
+<h2 class="anchored" data-anchor-id="rules">Rules</h2>
+<ul>
+<li>Any coding languages are allowed but all analyses must be reproducible by the panel.</li>
+<li>All entries must be loaded into a public Github repo.</li>
+<li>All entries must follow the submission formats outlined below.</li>
+<li>All entries must include a 500-1000 word report to accompany any analyses. This can be as a seperate PDF or incorporated into a quarto/jupyter notebook.</li>
+</ul>
+</section>
+<section id="how-to-submit" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-submit">How to Submit</h2>
+</section>
+<section id="connect-with-the-community" class="level2">
+<h2 class="anchored" data-anchor-id="connect-with-the-community">Connect with the Community</h2>
+<p>This competition has a page on our TuringPPL Zulip where teams can message and get clarification/advice. We will also be monitoring the competition repo. Regular updates will be posted on both platforms.</p>
+</section>
+<section id="license" class="level2">
+<h2 class="anchored" data-anchor-id="license">License</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" class="img-fluid figure-img"></p>
+<figcaption>CC-BYNCSA-4</figcaption>
+</figure>
+</div>
+<p>Unless otherwise noted, the content in this repository is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
+<p>For the data sets in the <em>data/</em> folder, please see <a href="data/README.md"><em>data/README.md</em></a> for the applicable copyrights and licenses.</p>
 
 
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>Adapted from WHO Mpox Dashboard (<a href="https://worldhealthorg.shinyapps.io/mpx_global/" class="uri">https://worldhealthorg.shinyapps.io/mpx_global/</a>)<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
