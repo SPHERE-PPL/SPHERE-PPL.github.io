@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic Programming Languages at Turing"
+title: ""
 image: images/turing.jpg
 
 about: 
@@ -15,10 +15,19 @@ about:
       href: mailto:jtyler@turing.ac.uk
 ---
 
-#### Welcome to the Turing Probabilistic Programming Languages Community Page! Here you can find links to all of our events, workshops and training materials.
+### Welcome to the Turing PPL Community Page! 
 
-<p> </p>
 
-  <a href=get_involved.qmd>
-    <button type="button" class="btn btn-primary btn-lg">Get Involved!</button>
-  </a>
+<p>
+
+</p>
+
+The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the [Grand Challenges of the Turing Institute](https://www.turing.ac.uk/research). 
+
+Within this website, you will find pages relating to all of our events, [forecasting competitions](Forecasting_Competitions/index.qmd), workshops and training materials.
+
+<p>
+
+</p>
+
+<a href=get_involved.qmd> <button type="button" class="btn btn-primary btn-lg">Join The Mailing List!</button> </a>

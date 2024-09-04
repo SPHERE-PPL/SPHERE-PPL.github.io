@@ -15,25 +15,27 @@ website:
       - href: index.qmd
         text: Home
       - Team.qmd
-      - sidebar:a
-      - sidebar:f
+      - text: "Annual Meetings"
+        href: Annual_Meetings/index.qmd
+      - text: "Forecasting Competitions"
+        href: Forecasting_Competitions/index.qmd
       - get_involved.qmd 
   
   sidebar:
-    - id: f
-      title: "Forcasting Competitions"
+    - title: "Forecasting Competitions"
       style: "docked"
       background: light
-      collapse-level: 2
       contents: 
+        - Forecasting_Competitions/index.qmd
+        - Forecasting_Competitions/Example.qmd
         - Forecasting_Competitions/Winter_2024.qmd
+
         
-    - id: a
-      title: "Annual Meetings"
+    - title: "Annual Meetings"
       style: "docked"
       background: light
-      collapse-level: 2
       contents: 
+        - Annual_Meetings/index.qmd
         - Annual_Meetings/AM_2024.qmd
         
   page-footer:

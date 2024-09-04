@@ -1,0 +1,6 @@
+---
+title: "Example - MPox Global Forecasting"
+format: html
+---
+
+# More Information Coming Soon!
