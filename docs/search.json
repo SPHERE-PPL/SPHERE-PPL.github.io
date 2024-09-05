@@ -73,7 +73,7 @@
     "href": "Forecasting_Competitions/Example.html#forecasting-outputs",
     "title": "Example - MPox Global Forecasting",
     "section": "Forecasting Outputs",
-    "text": "Forecasting Outputs\nFor this example competition, we are looking to forecast monthly regional case numbers for the 6 WHO regions (African, Eastern Mediterranean, European, Region of the Americas, South-East Asia, Western Pacific) for the 12 month following the end of the collected data (i.e. August 2024 - July 2025)",
+    "text": "Forecasting Outputs\nFor this example competition, we are looking to forecast monthly regional case numbers for the 6 WHO regions (African, Eastern Mediterranean, European, Region of the Americas, South-East Asia, Western Pacific) for the x months following the end of the collected data.",
     "crumbs": [
       "Forecasting Competitions",
       "Example - MPox Global Forecasting"
