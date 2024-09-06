@@ -1,0 +1,8 @@
+---
+title: "Resources & Training"
+format: html
+---
+# Adding New Resources
+
+As it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action.
+

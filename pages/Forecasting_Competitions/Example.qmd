@@ -54,4 +54,4 @@ This competition has a page on our TuringPPL Zulip where teams can message and g
 
 Unless otherwise noted, the content in this repository is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-For the data sets in the *data/* folder, please see [*data/README.md*](data/README.md) for the applicable copyrights and licenses.
+For the data sets in the *data/* folder, please see *data/README.md* for the applicable copyrights and licenses.
