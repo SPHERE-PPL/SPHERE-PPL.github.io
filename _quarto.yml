@@ -7,7 +7,7 @@ website:
   title: "Turing PPL - Probabilistic Programming Languages"
   navbar:
     title: "Turing PPL"
-    logo: images/favicon.png
+    logo: favicon.png
     tools:
       - icon: github
         href: https://github.com/TuringPPL/TuringPPL.github.io
