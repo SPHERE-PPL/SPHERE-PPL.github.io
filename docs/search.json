@@ -4,7 +4,7 @@
     "href": "pages/Resources.html",
     "title": "Resources & Training",
     "section": "",
-    "text": "Adding New Resources\nAs it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action."
+    "text": "As it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action. If you would like to have a resouce linked on this page, please send an email or raise an issue on github."
   },
   {
     "objectID": "pages/Annual_Meetings/index.html",
@@ -69,7 +69,7 @@
     "href": "pages/Forecasting_Competitions/mpox_example.html#introduction-1",
     "title": "Example - MPox Global Forecasting",
     "section": "Introduction 1",
-    "text": "Introduction 1\nMpox is an infectious disease that can cause a painful rash, enlarged lymph nodes, fever, headache, muscle ache, back pain and low energy. Most people fully recover, but some get very sick. \nMpox is caused by the monkeypox virus (MPXV). It is an enveloped double-stranded DNA virus of the Orthopoxvirus genus in the Poxviridae family, which includes variola, cowpox, vaccinia and other viruses. There are two distinct clades of the virus: clade I (with subclades Ia and Ib) and clade II (with subclades IIa and IIb).\nA global outbreak of clade IIb began in 2022 and continues to this day, including in some African countries. There are also growing outbreaks of clades Ia and Ib affecting the Democratic Republic of the Congo and other countries in Africa. As of August 2024, clade Ib has also been detected beyond Africa.\nThe natural reservoir of the virus is unknown, but various small mammals such as squirrels and monkeys are susceptible.\nThe dataset included in this forecasting competition covers the period from Jan 2022 to July 2024.\nThis competition has its own repository with pre-prepared data (found in the data folder) and a template report (demo_analysis.qmd) which showcases how to load the data, perform analyses and then export results into the correct format. There is also be a folder for any additional scripts that are required.",
+    "text": "Introduction 1\nMpox is an infectious disease that can cause a painful rash, enlarged lymph nodes, fever, headache, muscle ache, back pain and low energy. Most people fully recover, but some get very sick. \nMpox is caused by the monkeypox virus (MPXV). It is an enveloped double-stranded DNA virus of the Orthopoxvirus genus in the Poxviridae family, which includes variola, cowpox, vaccinia and other viruses. There are two distinct clades of the virus: clade I (with subclades Ia and Ib) and clade II (with subclades IIa and IIb).\nA global outbreak of clade IIb began in 2022 and continues to this day, including in some African countries. There are also growing outbreaks of clades Ia and Ib affecting the Democratic Republic of the Congo and other countries in Africa. As of August 2024, clade Ib has also been detected beyond Africa.\nThe natural reservoir of the virus is unknown, but various small mammals such as squirrels and monkeys are susceptible.\nThe dataset included in this forecasting competition covers the period from Jan 2022 to July 2024.",
     "crumbs": [
       "Forecasting Competitions",
       "Example - MPox Global Forecasting"
@@ -169,5 +169,47 @@
       "Annual Meetings",
       "Annual Meeting 2024"
     ]
+  },
+  {
+    "objectID": "pages/Resources.html#core-engines",
+    "href": "pages/Resources.html#core-engines",
+    "title": "Resources & Training",
+    "section": "Core Engines",
+    "text": "Core Engines\n\nStan Homepage\n\n\nR Packages\n\nbrms"
+  },
+  {
+    "objectID": "pages/Resources.html#r-packages",
+    "href": "pages/Resources.html#r-packages",
+    "title": "Resources & Training",
+    "section": "R Packages",
+    "text": "R Packages\n\nbrms"
+  },
+  {
+    "objectID": "pages/Resources.html#biodiversity-ecology-evolution",
+    "href": "pages/Resources.html#biodiversity-ecology-evolution",
+    "title": "Resources & Training",
+    "section": "Biodiversity, Ecology & Evolution",
+    "text": "Biodiversity, Ecology & Evolution\n\nPGLMMs For Biodiversity Modelling (Will Pearse - Stancon24)"
+  },
+  {
+    "objectID": "pages/Resources.html#adding-new-resources",
+    "href": "pages/Resources.html#adding-new-resources",
+    "title": "Resources & Training",
+    "section": "",
+    "text": "As it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action. If you would like to have a resouce linked on this page, please send an email or raise an issue on github."
+  },
+  {
+    "objectID": "pages/Resources.html#software-packages",
+    "href": "pages/Resources.html#software-packages",
+    "title": "Resources & Training",
+    "section": "Software & Packages",
+    "text": "Software & Packages\n\nCore Engines\n\nStan Homepage\n\n\n\nR Packages\n\nbrms"
+  },
+  {
+    "objectID": "pages/Resources.html#tutorials",
+    "href": "pages/Resources.html#tutorials",
+    "title": "Resources & Training",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nIntro to Bayesian Analysis\n\nStatistical Rethinking (Richard McElreath - 2024)\n\n\n\nBiodiversity, Ecology & Evolution\n\nPGLMMs For Biodiversity Modelling (Will Pearse - Stancon24)"
   }
 ]
