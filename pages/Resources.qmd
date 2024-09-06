@@ -2,7 +2,27 @@
 title: "Resources & Training"
 format: html
 ---
-# Adding New Resources
 
-As it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action.
+## Adding New Resources
 
+As it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action. If you would like to have a resouce linked on this page, please send an email or raise an issue on github.
+
+## Tutorials
+
+### Intro to Bayesian Analysis
+
+-   [Statistical Rethinking (Richard McElreath - 2024)](https://github.com/rmcelreath/stat_rethinking_2024)
+
+### Biodiversity, Ecology & Evolution
+
+-   [PGLMMs For Biodiversity Modelling (Will Pearse - Stancon24)](https://github.com/willpearse/stancon-2024-pglmm)
+
+## Software & Packages
+
+### Core Engines
+
+-   [Stan Homepage](https://mc-stan.org/)
+
+### R Packages
+
+-   [brms](https://cran.rstudio.com/web/packages/brms/)
