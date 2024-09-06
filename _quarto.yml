@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  bread-crumbs: true
   favicon: images/favicon.png
   title: "Turing PPL - Probabilistic Programming Languages"
   navbar:
@@ -25,8 +26,9 @@ website:
   
   sidebar:
     - title: "Forecasting Competitions"
-      style: "docked"
-      background: light
+      style: "floating"
+      background: none
+      
       contents: 
         - pages/Forecasting_Competitions/index.qmd
         - pages/Forecasting_Competitions/mpox_example.qmd
@@ -34,8 +36,8 @@ website:
 
         
     - title: "Annual Meetings"
-      style: "docked"
-      background: light
+      style: "floating"
+      background: none
       contents: 
         - pages/Annual_Meetings/index.qmd
         - pages/Annual_Meetings/AM_2024.qmd
