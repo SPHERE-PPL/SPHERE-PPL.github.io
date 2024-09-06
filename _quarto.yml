@@ -29,7 +29,7 @@ website:
       background: light
       contents: 
         - pages/Forecasting_Competitions/index.qmd
-        - pages/Forecasting_Competitions/Example.qmd
+        - pages/Forecasting_Competitions/mpox_example.qmd
         - pages/Forecasting_Competitions/Winter_2024.qmd
 
         

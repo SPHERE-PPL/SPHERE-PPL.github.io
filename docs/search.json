@@ -169,5 +169,104 @@
       "Annual Meetings",
       "Annual Meeting 2024"
     ]
+  },
+  {
+    "objectID": "pages/Forecasting_Competitions/mpox_example.html",
+    "href": "pages/Forecasting_Competitions/mpox_example.html",
+    "title": "Example - MPox Global Forecasting",
+    "section": "",
+    "text": "Important\n\n\n\nThis example competition is a work in progress and therefore some of the competition infrastructure is still being organised. The information on this page is also subject to change so please check back intermittently.",
+    "crumbs": [
+      "Forecasting Competitions",
+      "Example - MPox Global Forecasting"
+    ]
+  },
+  {
+    "objectID": "pages/Forecasting_Competitions/mpox_example.html#introduction-1",
+    "href": "pages/Forecasting_Competitions/mpox_example.html#introduction-1",
+    "title": "Example - MPox Global Forecasting",
+    "section": "Introduction 1",
+    "text": "Introduction 1\nMpox is an infectious disease that can cause a painful rash, enlarged lymph nodes, fever, headache, muscle ache, back pain and low energy. Most people fully recover, but some get very sick. \nMpox is caused by the monkeypox virus (MPXV). It is an enveloped double-stranded DNA virus of the Orthopoxvirus genus in the Poxviridae family, which includes variola, cowpox, vaccinia and other viruses. There are two distinct clades of the virus: clade I (with subclades Ia and Ib) and clade II (with subclades IIa and IIb).\nA global outbreak of clade IIb began in 2022 and continues to this day, including in some African countries. There are also growing outbreaks of clades Ia and Ib affecting the Democratic Republic of the Congo and other countries in Africa. As of August 2024, clade Ib has also been detected beyond Africa.\nThe natural reservoir of the virus is unknown, but various small mammals such as squirrels and monkeys are susceptible.\nThe dataset included in this forecasting competition covers the period from Jan 2022 to July 2024.\nThis competition has its own repository with pre-prepared data (found in the data folder) and a template report (demo_analysis.qmd) which showcases how to load the data, perform analyses and then export results into the correct format. There is also be a folder for any additional scripts that are required.",
+    "crumbs": [
+      "Forecasting Competitions",
+      "Example - MPox Global Forecasting"
+    ]
+  },
+  {
+    "objectID": "pages/Forecasting_Competitions/mpox_example.html#forecasting-outputs",
+    "href": "pages/Forecasting_Competitions/mpox_example.html#forecasting-outputs",
+    "title": "Example - MPox Global Forecasting",
+    "section": "Forecasting Outputs",
+    "text": "Forecasting Outputs\nThis competition has its own repository with pre-prepared data (found in the data folder) and a template report (demo_analysis.qmd) which showcases how to load the data, perform analyses and then export results into the correct format. There is also be a folder for any additional scripts that are required.\nFor this example competition, we are looking to forecast monthly regional case numbers for the 6 WHO regions (African, Eastern Mediterranean, European, Region of the Americas, South-East Asia, Western Pacific) for the remainder of 2024 (August-December).",
+    "crumbs": [
+      "Forecasting Competitions",
+      "Example - MPox Global Forecasting"
+    ]
+  },
+  {
+    "objectID": "pages/Forecasting_Competitions/mpox_example.html#joining-the-competition-getting-started",
+    "href": "pages/Forecasting_Competitions/mpox_example.html#joining-the-competition-getting-started",
+    "title": "Example - MPox Global Forecasting",
+    "section": "Joining the Competition & Getting Started",
+    "text": "Joining the Competition & Getting Started\nThe competition repo can be found here: Competition-Example-Mpox.\nThe simplest way to get started is to fork this repo and then clone it onto your local machine. This will allow the organisers to see the forks and keep track of entrants. Alternatively, you can download the repo manually and get started. Each entry must be uploaded to a public github repo to be considered (see Rules below)",
+    "crumbs": [
+      "Forecasting Competitions",
+      "Example - MPox Global Forecasting"
+    ]
+  },
+  {
+    "objectID": "pages/Forecasting_Competitions/mpox_example.html#rules",
+    "href": "pages/Forecasting_Competitions/mpox_example.html#rules",
+    "title": "Example - MPox Global Forecasting",
+    "section": "Rules",
+    "text": "Rules\n\nAny coding languages are allowed but all analyses must be reproducible by the panel.\nAll entries must be loaded into a public Github repo.\nAll entries must follow the submission formats outlined below.\nAll entries must include a max 1000 word report to accompany the forecast analyses. This can be as a separate PDF/hmtl or incorporated into a quarto/jupyter notebook.",
+    "crumbs": [
+      "Forecasting Competitions",
+      "Example - MPox Global Forecasting"
+    ]
+  },
+  {
+    "objectID": "pages/Forecasting_Competitions/mpox_example.html#how-to-submit",
+    "href": "pages/Forecasting_Competitions/mpox_example.html#how-to-submit",
+    "title": "Example - MPox Global Forecasting",
+    "section": "How to Submit",
+    "text": "How to Submit\nWe are in the process of building back-end architecture to automatically find all forked repos and enter them into the competition but in the interim, please send an email to jtyler@turing.ac.uk with a link to the public github repo.\nThe forecast estimates must be submitted as a csv with the name Mpox_forecast.csv and contain three columns: WHO region, month start date and Estimate (see example in the repo). The accompanying report should be titled Mpox_report and be in a format outlined in the Rules.",
+    "crumbs": [
+      "Forecasting Competitions",
+      "Example - MPox Global Forecasting"
+    ]
+  },
+  {
+    "objectID": "pages/Forecasting_Competitions/mpox_example.html#connect-with-the-community",
+    "href": "pages/Forecasting_Competitions/mpox_example.html#connect-with-the-community",
+    "title": "Example - MPox Global Forecasting",
+    "section": "Connect with the Community",
+    "text": "Connect with the Community\nThis competition has a page on our TuringPPL Zulip where teams can message and get clarification/advice. We will also be monitoring the competition repo. Regular updates will be posted on both platforms.",
+    "crumbs": [
+      "Forecasting Competitions",
+      "Example - MPox Global Forecasting"
+    ]
+  },
+  {
+    "objectID": "pages/Forecasting_Competitions/mpox_example.html#license",
+    "href": "pages/Forecasting_Competitions/mpox_example.html#license",
+    "title": "Example - MPox Global Forecasting",
+    "section": "License",
+    "text": "License\n\n\n\nCC-BYNCSA-4\n\n\nUnless otherwise noted, the content in this repository is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\nFor the data sets in the data/ folder, please see data/README.md for the applicable copyrights and licenses.",
+    "crumbs": [
+      "Forecasting Competitions",
+      "Example - MPox Global Forecasting"
+    ]
+  },
+  {
+    "objectID": "pages/Forecasting_Competitions/mpox_example.html#footnotes",
+    "href": "pages/Forecasting_Competitions/mpox_example.html#footnotes",
+    "title": "Example - MPox Global Forecasting",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAdapted from WHO Mpox Dashboard (https://worldhealthorg.shinyapps.io/mpx_global/)↩︎",
+    "crumbs": [
+      "Forecasting Competitions",
+      "Example - MPox Global Forecasting"
+    ]
   }
 ]
