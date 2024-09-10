@@ -19,10 +19,16 @@ As it is hosted on Github, anyone can suggest changes to pages and push them to 
 
 ## Software & Packages
 
-### Core Engines
+### Core Platforms
 
 -   [Stan Homepage](https://mc-stan.org/)
 
 ### R Packages
 
 -   [brms](https://cran.rstudio.com/web/packages/brms/)
+-   [RStan](https://mc-stan.org/rstan/)
+-   [CmdStanR](https://mc-stan.org/cmdstanr/)
+
+### Julia Packages
+
+-   [Turing.jl](https://turinglang.org/)
