@@ -22,9 +22,9 @@ about:
 
 </p>
 
-The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the [Grand Challenges of the Turing Institute](https://www.turing.ac.uk/research). 
+The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the [Grand Challenges of the Turing Institute](https://www.turing.ac.uk/research). Within this website, you will find pages relating to all of our events, [forecasting contests](pages/Forecasting_Contests/index.qmd), workshops and [training materials](pages/Resources.qmd).
 
-Within this website, you will find pages relating to all of our events, [forecasting contests](pages/Forecasting_Contests/index.qmd), workshops and [training materials](pages/Resources.qmd).
+A key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.
 
 <p>
 
