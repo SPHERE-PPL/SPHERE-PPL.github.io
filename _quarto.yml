@@ -20,19 +20,19 @@ website:
       - pages/Resources.qmd
       - text: "Annual Meetings"
         href: pages/Annual_Meetings/index.qmd
-      - text: "Forecasting Competitions"
-        href: pages/Forecasting_Competitions/index.qmd
+      - text: "Forecasting Contests"
+        href: pages/Forecasting_Contests/index.qmd
       - pages/get_involved.qmd 
   
   sidebar:
-    - title: "Forecasting Competitions"
+    - title: "Forecasting Contests"
       style: "floating"
       background: white
       
       contents: 
-        - pages/Forecasting_Competitions/index.qmd
-        - pages/Forecasting_Competitions/mpox_example.qmd
-        - pages/Forecasting_Competitions/Winter_2024.qmd
+        - pages/Forecasting_Contests/index.qmd
+        - pages/Forecasting_Contests/mpox_example.qmd
+        - pages/Forecasting_Contests/Winter_2024.qmd
 
         
     - title: "Annual Meetings"
