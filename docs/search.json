@@ -40,11 +40,18 @@
     "text": "Join the Zulip\nZulip is a messaging and community platform that we will be using to host all Probabilistic Programming discussions! We will shortly be releasing the sign-up link so watch this space!\n\n\nJoin the Mailing List\nEvery year, there will be workshops, meetings and forecasting challenges designed to further the use of Probabilistic Programming across research, industry and policy.\nTo be kept up-to-date with all the latest news and events, consider signing up to our mailing list using the form below. Details entered here will only be used for our mailing list and no other community platforms. If you would like to be removed from the mailing list, please email jtyler@turing.ac.uk.\n\nLoading…"
   },
   {
+    "objectID": "pages/Mission.html",
+    "href": "pages/Mission.html",
+    "title": "Our Vision",
+    "section": "",
+    "text": "A UK Spatial, Climate, & Health Probabilistic Programming Language Community\n\n\n\n\n\nFor the UK to achieve global leadership in Probabilistic Programming Languages (PPL), it is necessary to cultivate a self-sustaining research community. Working with the Alan Turing Institute (ATI), the project team will help realise this vision by supporting:\n\nConceptual advances in focal research areas of strategic importance to the UK (climate, health, and spatial modelling)\nForecasting contests to build a community based around addressing policy needs\nIn-person and online training sessions\n\nThis work, in conjunction with researchers and students at Imperial College London, University of Oxford and University of Bristol, will create a legacy of PPL leadership at ATI as part of its investment in Fundamental Research.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link on the homepage."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Turing PPL - Probabilistic Programming Languages",
     "section": "",
-    "text": "Welcome to the Turing PPL Community Page!\n\n\nThe purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute.\nWithin this website, you will find pages relating to all of our events, forecasting contests, workshops and training materials.\n\n\n Join The Mailing List!"
+    "text": "Welcome to the Turing PPL Community Page!\n\n\nThe purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute. Within this website, you will find pages relating to all of our events, forecasting contests, workshops and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n Join The Mailing List!"
   },
   {
     "objectID": "pages/Team.html",
@@ -190,12 +197,5 @@
       "Forecasting Contests",
       "Example - MPox Global Forecasting"
     ]
-  },
-  {
-    "objectID": "pages/Mission.html",
-    "href": "pages/Mission.html",
-    "title": "Our Vision",
-    "section": "",
-    "text": "A UK Spatial, Climate, & Health Probabilistic Programming Language Community\n\n\n\n\n\nFor the UK to achieve global leadership in Probabilistic Programming Languages (PPL), it is necessary to cultivate a self-sustaining research community. Working with the Alan Turing Institute (ATI), the project team will help realise this vision by supporting:\n\nConceptual advances in focal research areas of strategic importance to the UK (climate, health, and spatial modelling)\nForecasting contests to build a community based around addressing policy needs\nIn-person and online training sessions\n\nThis work, in conjunction with researchers and students at Imperial College London, University of Oxford and University of Bristol, will create a legacy of PPL leadership at ATI as part of its investment in Fundamental Research."
   }
 ]
