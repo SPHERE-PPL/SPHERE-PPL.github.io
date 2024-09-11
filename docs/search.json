@@ -190,5 +190,12 @@
       "Forecasting Contests",
       "Example - MPox Global Forecasting"
     ]
+  },
+  {
+    "objectID": "pages/Mission.html",
+    "href": "pages/Mission.html",
+    "title": "Our Vision",
+    "section": "",
+    "text": "A UK Spatial, Climate, & Health Probabilistic Programming Language Community\n\n\n\n\n\nFor the UK to achieve global leadership in Probabilistic Programming Languages (PPL), it is necessary to cultivate a self-sustaining research community. Working with the Alan Turing Institute (ATI), the project team will help realise this vision by supporting:\n\nConceptual advances in focal research areas of strategic importance to the UK (climate, health, and spatial modelling)\nForecasting contests to build a community based around addressing policy needs\nIn-person and online training sessions\n\nThis work, in conjunction with researchers and students at Imperial College London, University of Oxford and University of Bristol, will create a legacy of PPL leadership at ATI as part of its investment in Fundamental Research."
   }
 ]
