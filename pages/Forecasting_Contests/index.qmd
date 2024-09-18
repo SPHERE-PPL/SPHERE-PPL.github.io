@@ -1,5 +1,5 @@
 ---
-title: "Forecasting Contests - How Do They Work & How To Join?"
+title: "Forecasting Contests - Overview"
 format: html
 ---
 
