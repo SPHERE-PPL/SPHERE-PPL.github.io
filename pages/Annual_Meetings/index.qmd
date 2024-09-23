@@ -3,5 +3,5 @@ title: "Annual Meeting Overview"
 format: html
 ---
 
-Every year, the Turing PPL Community, alongside invited guests from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used.
+Every year, the Turing PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used.
 
