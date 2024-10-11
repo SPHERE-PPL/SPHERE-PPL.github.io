@@ -1,11 +1,11 @@
 ---
 title: ""
-image: turing2.jpg
+image: Logo_NoBackground.png
 
 about: 
   template: jolla
-  image-shape: round
-  image-width: 20em
+  image-shape: rectangle
+  image-width: 23em
   links: # create buttons
     - icon: github
       text: GitHub
@@ -16,11 +16,6 @@ about:
 ---
 
 ### Welcome to the SPHERE-PPL Community Page! 
-
-
-<p>
-
-</p>
 
 The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the [Grand Challenges of the Turing Institute](https://www.turing.ac.uk/research). Within this website, you will find pages relating to all of our events, [forecasting contests](pages/Forecasting_Contests/index.qmd), workshops and [training materials](pages/Resources.qmd).
 

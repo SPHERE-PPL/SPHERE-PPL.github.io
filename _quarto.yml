@@ -5,13 +5,13 @@ project:
 website:
   bread-crumbs: true
   favicon: images/favicon.png
-  title: "Turing PPL - Probabilistic Programming Languages"
+  title: "SPHERE-PPL"
   navbar:
-    title: "Turing PPL"
+    title: "SPHERE-PPL"
     logo: favicon.png
     tools:
       - icon: github
-        href: https://github.com/TuringPPL/TuringPPL.github.io
+        href: https://github.com/SPHERE-PPL/SPHERE-PPL.github.io
     right:
       - href: index.qmd
         text: Home
@@ -44,9 +44,9 @@ website:
         
   page-footer:
     border: true
-    left: Copyright 2024 - Turing PPL
+    left: Copyright 2024 - SPHERE-PPL
     right:
-      - text: "Probabilistic Programming Languages @ Turing"
+      - text: "Spatial, Health & Environmental Research using Probilistic Programming Languages"
 
 format:
   html:

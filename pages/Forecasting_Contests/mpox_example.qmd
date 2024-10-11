@@ -9,7 +9,7 @@ This example contest is a work in progress and therefore some of the contest inf
 
 
 ::: callout-note
-This is an example contest for the Turing PPL forecasting events. It will have all of the information sections you will find in active contests and will mostly follow the same rules/timelines.
+This is an example contest for the SPHERE-PPL forecasting events. It will have all of the information sections you will find in active contests and will mostly follow the same rules/timelines.
 :::
 
 ## Introduction [^readme-1]
@@ -61,4 +61,4 @@ This contest has a page on our TuringPPL Zulip where teams can message and get c
 
 Unless otherwise noted, the content in this repository is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-For the data sets in the *data/* folder, please see [*data/README.md*](data/README.md) for the applicable copyrights and licenses.
+For the data sets in the *data/* folder, please see *data/README.md* for the applicable copyrights and licenses.

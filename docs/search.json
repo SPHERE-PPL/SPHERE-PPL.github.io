@@ -49,9 +49,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Turing PPL - Probabilistic Programming Languages",
+    "title": "SPHERE-PPL",
     "section": "",
-    "text": "Welcome to the SPHERE-PPL Community Page!\n\n\nThe purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute. Within this website, you will find pages relating to all of our events, forecasting contests, workshops and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n Join The Mailing List!"
+    "text": "Welcome to the SPHERE-PPL Community Page!\nThe purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute. Within this website, you will find pages relating to all of our events, forecasting contests, workshops and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n Join The Mailing List!"
   },
   {
     "objectID": "pages/Team.html",
@@ -65,7 +65,7 @@
     "href": "pages/Annual_Meetings/index.html",
     "title": "Annual Meeting Overview",
     "section": "",
-    "text": "Every year, the Turing PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used.",
+    "text": "Every year, the SPHERE-PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used.",
     "crumbs": [
       "Annual Meetings",
       "Annual Meeting Overview"
