@@ -15,7 +15,7 @@ about:
       href: mailto:jtyler@turing.ac.uk
 ---
 
-### Welcome to the Turing PPL Community Page! 
+### Welcome to the SPHERE-PPL Community Page! 
 
 
 <p>
