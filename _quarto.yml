@@ -4,11 +4,11 @@ project:
 
 website:
   bread-crumbs: true
-  favicon: images/favicon.png
+  favicon: Logos/Logo_NoText.png
   title: "SPHERE-PPL"
   navbar:
     title: "SPHERE-PPL"
-    logo: favicon.png
+    logo: Logos/Logo_NoText.png
     tools:
       - icon: github
         href: https://github.com/SPHERE-PPL/SPHERE-PPL.github.io

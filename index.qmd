@@ -1,11 +1,11 @@
 ---
 title: ""
-image: Logo_NoBackground.png
+image: Logos/Logo_NoBackground.png
 
 about: 
   template: trestles
   image-shape: rectangle
-  image-width: 23em
+  image-width: 27em
   links: # create buttons
     - icon: github
       text: GitHub
