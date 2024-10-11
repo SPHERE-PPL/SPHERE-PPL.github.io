@@ -20,7 +20,7 @@ about:
 
 </p>
 
-## [Health Modelling & Forecasting Workshop Information](pages/Events/Jan25.qmd)
+## [Health Modelling & Forecasting Meeting Information](pages/Events/Jan25.qmd)
 
 The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the [Grand Challenges of the Turing Institute](https://www.turing.ac.uk/research). Within this website, you will find pages relating to all of our [meetings and workshops](pages/Events/index.qmd), [forecasting contests](pages/Forecasting_Contests/index.qmd) and [training materials](pages/Resources.qmd).
 
