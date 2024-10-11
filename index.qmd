@@ -5,7 +5,7 @@ image: Logos/Logo_NoBackground.png
 about: 
   template: trestles
   image-shape: rectangle
-  image-width: 27em
+  image-width: 20em
   links: # create buttons
     - icon: github
       text: GitHub
