@@ -3,24 +3,19 @@ title: ""
 image: Logo_NoBackground.png
 
 about: 
-  template: jolla
+  template: trestles
   image-shape: rectangle
   image-width: 23em
   links: # create buttons
     - icon: github
       text: GitHub
-      href: https://github.com/TuringPPL
+      href: https://github.com/SPHERE-PPL
     - icon: envelope
       text: Email
       href: mailto:jtyler@turing.ac.uk
 ---
 
 ## Welcome to the SPHERE-PPL Community Page! 
-<p>
-
-</p>
-
-## [Health Modelling & Forecasting Meeting Information](pages/Events/Jan25.qmd)
 
 The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the [Grand Challenges of the Turing Institute](https://www.turing.ac.uk/research). Within this website, you will find pages relating to all of our [meetings and workshops](pages/Events/index.qmd), [forecasting contests](pages/Forecasting_Contests/index.qmd) and [training materials](pages/Resources.qmd).
 
@@ -30,4 +25,12 @@ A key part of building this community is to help connect organisations (e.g. cha
 
 </p>
 
-<a href=pages/get_involved.qmd#> <button type="button" class="btn btn-primary btn-lg">Join The Mailing List!</button> </a>
+<div style="display: flex;">
+<a href="pages/get_involved.qmd#" style="margin-right: 25px;margin-left: 35px;"> 
+<button type="button" class="btn btn-success btn-lg">Annual Meeting 2025</button>
+</a>
+<a href="pages/Events/Jan25.qmd#">
+<button type="button" class="btn btn-primary btn-lg">Join The Mailing List!</button>
+
+</a>
+</div>

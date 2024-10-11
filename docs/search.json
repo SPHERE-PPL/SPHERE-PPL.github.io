@@ -47,11 +47,18 @@
     "text": "A UK Spatial, Climate, & Health Probabilistic Programming Language Community\n\n\n\n\n\nFor the UK to achieve global leadership in Probabilistic Programming Languages (PPL), it is necessary to cultivate a self-sustaining research community. Working with the Alan Turing Institute (ATI), the project team will help realise this vision by supporting:\n\nConceptual advances in focal research areas of strategic importance to the UK (climate, health, and spatial modelling)\nForecasting contests to build a community based around addressing policy needs\nIn-person and online training sessions\n\nThis work, in conjunction with researchers and students at Imperial College London, University of Oxford and University of Bristol, will create a legacy of PPL leadership at ATI as part of its investment in Fundamental Research.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link on the homepage.\nThis project is funded by the Alan Turing Institute."
   },
   {
-    "objectID": "index.html#health-modelling-forecasting-workshop-information",
-    "href": "index.html#health-modelling-forecasting-workshop-information",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "SPHERE-PPL",
-    "section": "Health Modelling & Forecasting Workshop Information",
-    "text": "Health Modelling & Forecasting Workshop Information\nThe purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute. Within this website, you will find pages relating to all of our meetings and workshops, forecasting contests and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n Join The Mailing List!"
+    "section": "",
+    "text": "The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute. Within this website, you will find pages relating to all of our meetings and workshops, forecasting contests and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n\n Annual Meeting 2025   Join The Mailing List!"
+  },
+  {
+    "objectID": "index.html#welcome-to-the-sphere-ppl-community-page",
+    "href": "index.html#welcome-to-the-sphere-ppl-community-page",
+    "title": "SPHERE-PPL",
+    "section": "",
+    "text": "The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute. Within this website, you will find pages relating to all of our meetings and workshops, forecasting contests and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n\n Annual Meeting 2025   Join The Mailing List!"
   },
   {
     "objectID": "pages/Team.html",
@@ -229,24 +236,6 @@
     "crumbs": [
       "Forecasting Contests",
       "Example - MPox Global Forecasting"
-    ]
-  },
-  {
-    "objectID": "index.html#health-modelling-forecasting-meeting-information",
-    "href": "index.html#health-modelling-forecasting-meeting-information",
-    "title": "SPHERE-PPL",
-    "section": "Health Modelling & Forecasting Meeting Information",
-    "text": "Health Modelling & Forecasting Meeting Information\nThe purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute. Within this website, you will find pages relating to all of our meetings and workshops, forecasting contests and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n Join The Mailing List!"
-  },
-  {
-    "objectID": "pages/Events/index.html#external-events",
-    "href": "pages/Events/index.html#external-events",
-    "title": "SPHERE-PPL Annual Meetings & Workshops",
-    "section": "External Events",
-    "text": "External Events\n\nBiodiversity Modelling Workshop (StanCon 2024)",
-    "crumbs": [
-      "Events",
-      "SPHERE-PPL Annual Meetings & Workshops"
     ]
   }
 ]
