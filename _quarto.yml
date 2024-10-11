@@ -18,8 +18,8 @@ website:
       - pages/Mission.qmd
       - pages/Team.qmd
       - pages/Resources.qmd
-      - text: "Annual Meetings"
-        href: pages/Annual_Meetings/index.qmd
+      - text: "Events"
+        href: pages/Events/index.qmd
       - text: "Forecasting Contests"
         href: pages/Forecasting_Contests/index.qmd
       - pages/get_involved.qmd 
@@ -35,12 +35,12 @@ website:
         - pages/Forecasting_Contests/Winter_2024.qmd
 
         
-    - title: "Annual Meetings"
+    - title: "Events"
       style: "floating"
       background: white
       contents: 
-        - pages/Annual_Meetings/index.qmd
-        - pages/Annual_Meetings/AM_Jan25.qmd
+        - pages/Events/index.qmd
+        - pages/Events/Jan25.qmd
         
   page-footer:
     border: true

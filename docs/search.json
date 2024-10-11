@@ -22,14 +22,14 @@
     ]
   },
   {
-    "objectID": "pages/Annual_Meetings/AM_Jan25.html",
-    "href": "pages/Annual_Meetings/AM_Jan25.html",
-    "title": "January 2025 - Health Modelling & Forecasting",
+    "objectID": "pages/Events/Jan25.html",
+    "href": "pages/Events/Jan25.html",
+    "title": "January 2025 - Annual Meeting - Health Modelling & Forecasting",
     "section": "",
     "text": "Date: Thursday 23rd January 2025\n\n\nLocation: The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB\n\n\nRegistration: Opens in November\nFor more information, please sign up to our mailing list.",
     "crumbs": [
-      "Annual Meetings",
-      "January 2025 - Health Modelling & Forecasting"
+      "Events",
+      "January 2025 - Annual Meeting -  Health Modelling & Forecasting"
     ]
   },
   {
@@ -47,11 +47,11 @@
     "text": "A UK Spatial, Climate, & Health Probabilistic Programming Language Community\n\n\n\n\n\nFor the UK to achieve global leadership in Probabilistic Programming Languages (PPL), it is necessary to cultivate a self-sustaining research community. Working with the Alan Turing Institute (ATI), the project team will help realise this vision by supporting:\n\nConceptual advances in focal research areas of strategic importance to the UK (climate, health, and spatial modelling)\nForecasting contests to build a community based around addressing policy needs\nIn-person and online training sessions\n\nThis work, in conjunction with researchers and students at Imperial College London, University of Oxford and University of Bristol, will create a legacy of PPL leadership at ATI as part of its investment in Fundamental Research.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link on the homepage.\nThis project is funded by the Alan Turing Institute."
   },
   {
-    "objectID": "index.html#health-forecasting-workshop-information",
-    "href": "index.html#health-forecasting-workshop-information",
+    "objectID": "index.html#health-modelling-forecasting-workshop-information",
+    "href": "index.html#health-modelling-forecasting-workshop-information",
     "title": "SPHERE-PPL",
-    "section": "Health Forecasting Workshop Information",
-    "text": "Health Forecasting Workshop Information\nThe purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute. Within this website, you will find pages relating to all of our events, forecasting contests, workshops and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n Join The Mailing List!"
+    "section": "Health Modelling & Forecasting Workshop Information",
+    "text": "Health Modelling & Forecasting Workshop Information\nThe purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the Grand Challenges of the Turing Institute. Within this website, you will find pages relating to all of our meetings and workshops, forecasting contests and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n Join The Mailing List!"
   },
   {
     "objectID": "pages/Team.html",
@@ -61,14 +61,47 @@
     "text": "Dr Will Pearse\nDr Will Pearse is a Reader in Evolutionary Ecology at Imperial College London. His lab develops new statistical and computational methods to better understand how species’ evolutionary history to better understand and predict their present-day ecology. He has worked with AI methods for most of his career, developing automated DNA analysis pipelines, birdsong detectors, and various automated image and video analysis tools. His lab use Probabilistic Programming Languages to solve a variety of statistical modelling problems, notably forecasting COVID-19 dynamics. His research work at the Turing focuses on building a solid research community based around probabilistic programming language by making conceptual advances in climate changes, human health, spatial modelling, forecasting contests to support decision-makers and developing training resources.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Juliette Uniwn\nDr Juliette Unwin is a Lecturer in Statistical Science in the School of Mathematics at the University of Bristol alongside being an Academic Visitor in the Department of Infectious Disease Epidemiology at Imperial College, London. She is an active member of MLGH, the Machine Learning and Global Health Network. She holds a Masters in Engineering from the University of Southampton and a PhD in Engineering from the University of Cambridge. Dr Unwin’s research revolves around developing and applying novel methods for infectious disease outbreak analysis to help inform policy makers in real time. Currently, she focuses on developing spatial temporal renewal based transmission models alongside estimating the number of children affected by COVID-19 and crises. Her research at the Turing focuses on advancing the adoption of Probabilistic Programming languages.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Seth Flaxman\nDr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University. Dr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Josh Tyler\nDr Josh Tyler is a Post Doc at the Turing Institute with a focus on biodiversity and modelling. He is particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity. His current project looks to investigate how probabilistic programming can improve biodiversity function predictions.\n\n\n\n\n\n\n\n\n\n\n\n\nRuth Drysdale\nRuth is the Programme Manager for the Fundamental Research team at The Alan Turing Institute. This is an emerging area of research that supports the three grand challenges; Defence and national security, Environment and sustainability and Transformation of health. Before joining the institute in 2022, Ruth was a senior Programme Manager at Jisc for 14 years and prior to that at UWE in the Student Experience and IT departments for 9 years."
   },
   {
-    "objectID": "pages/Annual_Meetings/index.html",
-    "href": "pages/Annual_Meetings/index.html",
-    "title": "Annual Meeting Overview",
+    "objectID": "pages/Events/index.html",
+    "href": "pages/Events/index.html",
+    "title": "SPHERE-PPL Annual Meetings & Workshops",
     "section": "",
     "text": "Every year, the SPHERE-PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used.",
     "crumbs": [
-      "Annual Meetings",
-      "Annual Meeting Overview"
+      "Events",
+      "SPHERE-PPL Annual Meetings & Workshops"
+    ]
+  },
+  {
+    "objectID": "pages/Events/index.html#annual-meeting-overview",
+    "href": "pages/Events/index.html#annual-meeting-overview",
+    "title": "SPHERE-PPL Annual Meetings & Workshops",
+    "section": "",
+    "text": "Every year, the SPHERE-PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used.",
+    "crumbs": [
+      "Events",
+      "SPHERE-PPL Annual Meetings & Workshops"
+    ]
+  },
+  {
+    "objectID": "pages/Events/index.html#coming-up",
+    "href": "pages/Events/index.html#coming-up",
+    "title": "SPHERE-PPL Annual Meetings & Workshops",
+    "section": "Coming Up",
+    "text": "Coming Up\n\nAnnual Meeting - Health Modelling & Forecasting (January 2025)",
+    "crumbs": [
+      "Events",
+      "SPHERE-PPL Annual Meetings & Workshops"
+    ]
+  },
+  {
+    "objectID": "pages/Events/index.html#past-events",
+    "href": "pages/Events/index.html#past-events",
+    "title": "SPHERE-PPL Annual Meetings & Workshops",
+    "section": "Past Events",
+    "text": "Past Events\n\nBiodiversity Modelling Workshop (StanCon 2024)",
+    "crumbs": [
+      "Events",
+      "SPHERE-PPL Annual Meetings & Workshops"
     ]
   },
   {
