@@ -1,6 +1,0 @@
----
-title: "Winter 24/25"
-format: html
----
-
-# More Information Coming Soon!

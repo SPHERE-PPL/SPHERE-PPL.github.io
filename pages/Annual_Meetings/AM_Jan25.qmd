@@ -1,0 +1,17 @@
+---
+title: "January 2025 - Health Modelling & Forecasting"
+format: html
+---
+
+#### Date: Thursday 23rd January 2025
+#### Location: The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB
+#### Registration: Opens in November
+
+For more information, please sign up to our [mailing list](https://sphere-ppl.github.io/pages/get_involved.html).
+
+```{r echo=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-0.12746576566117154, lat=51.529429636435324, popup="Alan Turing Institute")
+```

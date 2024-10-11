@@ -40,7 +40,7 @@ website:
       background: white
       contents: 
         - pages/Annual_Meetings/index.qmd
-        - pages/Annual_Meetings/AM_2024.qmd
+        - pages/Annual_Meetings/AM_Jan25.qmd
         
   page-footer:
     border: true
