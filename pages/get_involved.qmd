@@ -10,7 +10,7 @@ Zulip is a messaging and community platform that we will be using to host all Pr
 
 Every year, there will be workshops, meetings and forecasting challenges designed to further the use of Probabilistic Programming across research, industry and policy. 
 
-To be kept up-to-date with all the latest news and events, consider signing up to our mailing list using the form below. Details entered here will only be used for our mailing list and no other community platforms. If you would like to be removed from the mailing list, please email [jtyler@turing.ac.uk](mailto:jtyler@turing.ac.uk).
+To be kept up-to-date with all the latest news and events, consider signing up to our mailing list using the form below. Details entered here will only be used for our mailing list and no other community platforms. If you would like to be removed from the mailing list, please email [info@sphere-ppl.org](mailto:info@sphere-ppl.org).
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXo2zfprcGUtb_SpaEH3h6CTkZDJ0fB1SQj07f53abJUfWnw/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
