@@ -13,12 +13,11 @@ This full-day event will bring together experts in a range of fields from indust
 
 Meeting participants will:
 
-1. Network with policy specialists and data scientists to discuss issues through a common language
+1.  Network with policy specialists and data scientists to discuss issues through a common language
 
-2. Identify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact.
+2.  Identify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact.
 
-3. Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
-
+3.  Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
 
 This event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute. For more information, please email [info\@sphere-ppl.org](mailto:info@sphere-ppl.org).
 
@@ -37,7 +36,7 @@ After this event, we will organise a series of follow-up on-line events to kick-
 ### Agenda (subject to change) {#sec-agenda}
 
 | Timings | Activity | Description |
-|:-----------------|:-----------------|------------------------------------|
+|:---------|:-------------------|------------------------------------|
 | 8:30-9:00 | Arrivals & Registration |  |
 | 9:00-9:10 | Welcome & Housekeeping |  |
 | 9:10-9:30 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
