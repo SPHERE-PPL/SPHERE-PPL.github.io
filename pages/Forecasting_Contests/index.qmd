@@ -10,5 +10,5 @@ More info coming soon!
 ## Contest List
 
 | Event | Kick-Off Meeting | Submission Date | Status |
-|:--:|:--:|:--:|:--:|
+|:---|:---|:---|:---|
 | [Mpox Global Forecasting](mpox_example.qmd) | NA | NA | Example |

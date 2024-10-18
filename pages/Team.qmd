@@ -32,7 +32,7 @@ Dr Seth Flaxman is an associate professor in the Department of Computer Science 
 
 ### Dr Josh Tyler
 
-Dr Josh Tyler is a Post Doc at the Turing Institute with a focus on biodiversity and modelling. He is particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity. His current project looks to investigate how probabilistic programming can improve biodiversity function predictions.
+Dr Josh Tyler is a Post Doc at the Turing Institute with a focus on biodiversity and modelling. He is particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity. His current project looks at how we can better use Bayesian methods, such as PGLMMs, to better elucidate patterns in macroecology & macroevolution.
 :::
 
 ::: {layout="[30,70]"}
