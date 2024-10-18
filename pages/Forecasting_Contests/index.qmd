@@ -1,6 +1,14 @@
 ---
-title: "Forecasting Contests - Overview"
+title: "Forecasting Contests"
 format: html
 ---
 
-# More Information Coming Soon!
+## Overview
+
+More info coming soon!
+
+## Contest List
+
+| Event | Kick-Off Meeting | Submission Date | Status |
+|:--:|:--:|:--:|:--:|
+| [Mpox Global Forecasting](mpox_example.qmd) | NA | NA | Example |

@@ -23,24 +23,6 @@ website:
       - text: "Forecasting Contests"
         href: pages/Forecasting_Contests/index.qmd
       - pages/get_involved.qmd 
-  
-  sidebar:
-    - title: "Forecasting Contests"
-      style: "floating"
-      background: white
-      
-      contents: 
-        - pages/Forecasting_Contests/index.qmd
-        - pages/Forecasting_Contests/mpox_example.qmd
-        - pages/Forecasting_Contests/Winter_2024.qmd
-
-        
-    - title: "Events"
-      style: "floating"
-      background: white
-      contents: 
-        - pages/Events/index.qmd
-        - pages/Events/Jan25.qmd
         
   page-footer:
     border: true

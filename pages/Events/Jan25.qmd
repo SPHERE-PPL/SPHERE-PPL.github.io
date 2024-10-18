@@ -1,17 +1,82 @@
 ---
-title: "January 2025 - Annual Meeting -  Health Modelling & Forecasting"
+title: "Annual Meeting -  Health Modelling & Forecasting"
 format: html
 ---
 
-#### Date: Thursday 23rd January 2025
-#### Location: The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB
-#### Registration: Opens in November
+## **Thursday 23rd January 2025** \| **The Alan Turing Institute**
 
-For more information, please sign up to our [mailing list](https://sphere-ppl.github.io/pages/get_involved.html).
+### Information
 
-```{r echo=FALSE}
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-0.12746576566117154, lat=51.529429636435324, popup="Alan Turing Institute")
-```
+Join us for the first SPHERE-PPL Annual Meeting, focussing on **Health Modelling & Forecasting**!
+
+This full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.
+
+Meeting participants will:
+
+1. Network with policy specialists and data scientists to discuss issues through a common language
+
+2. Identify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact.
+
+3. Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
+
+
+This event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute. For more information, please email [info\@sphere-ppl.org](mailto:info@sphere-ppl.org).
+
+------------------------------------------------------------------------
+
+### Registration {#sec-reg}
+
+[Complete this form](https://forms.office.com/e/t4CATyGpEy) by Friday 29th November 2024.
+
+Attendance is free but participation is limited to 50 in-person attendees, with an application required (there is no limit on the number of subsequent forecasting contest participants). We will email successful applicants in early December. Attendance is not limited by sector, discipline, background, or career stage. If you use data to ask questions about health, disease, or healthcare operations, this meeting is for you!
+
+After this event, we will organise a series of follow-up on-line events to kick-off the forecasting contests and provide training in forecasting. More details will be shared at the meeting and afterwards on-line: if you can't make the meeting, [join the mailing list](https://sphere-ppl.org/pages/get_involved.html) to join in!
+
+------------------------------------------------------------------------
+
+### Agenda (subject to change) {#sec-agenda}
+
+| Timings | Activity | Description |
+|:-----------------|:-----------------|------------------------------------|
+| 8:30-9:00 | Arrivals & Registration |  |
+| 9:00-9:10 | Welcome & Housekeeping |  |
+| 9:10-9:30 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
+| 9:30-10:00 | Keynote 1 - Dr Lauren Cator | tbc |
+| 10:00-10:30 | Keynote 2 - Dr Will Pearse | How forecasting and probabilistic programming can improve health outcomes |
+| 10:30-11:00 | Coffee Break |  |
+| 11:00-12:00 | Break-Out Discussion | Identifying key challenges in health policy |
+| 12:00-12:30 | Break-Out Feedback | 2-minute presentations on challenges |
+| 12:30-13:30 | Lunch |  |
+| 13:30-14:15 | Break-Out Design | Groups design forecasting contests |
+| 14:15-15:00 | Break-Out Feedback | Group feedback and discussion of contest priorities |
+| 15:00-15:30 | Coffee Break |  |
+| 15:30-15:40 | Presentation - Dr Josh Tyler | What can SPHERE-PPL do for you? |
+| 15:40-16:10 | Break-Out Discussion | Brainstorming requests for workshops, training and support |
+| 16:10-16:30 | Break-Out Feedback | Creating a community priority list |
+| 16:30-17:00 | Wrap-Up |  |
+
+------------------------------------------------------------------------
+
+### Organising Committee
+
+-   Dr Josh Tyler (The Alan Turing Institute)
+
+-   Dr Will Pearse (Imperial College London)
+
+-   Dr Ettie Unwin (University of Bristol)
+
+-   Dr Seth Flaxman (University of Oxford)
+
+-   Ruth Drysdale (The Alan Turing Institute)
+
+------------------------------------------------------------------------
+
+### Getting Here
+
+Full Address: [The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB](https://www.google.com/maps/dir//The+Alan+Turing+Institute,+British+Library,+96+Euston+Road,+London+NW1+2DB,+UK/@51.5293496,-0.1275516,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x48761b3b76b07c15:0xa6f7b8acf648fffd!2m2!1d-0.1275068!2d51.5293052?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D)
+
+See the Turing Website for details of transport to the Institute: [How to get to the Turing](https://www.turing.ac.uk/contact-us/how-get-alan-turing-institute)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4964.232238591681!2d-0.127273!3d51.52943!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b3b76b07c15%3A0xa6f7b8acf648fffd!2sThe%20Alan%20Turing%20Institute!5e0!3m2!1sen!2sus!4v1728983699168!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>

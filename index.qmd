@@ -25,12 +25,10 @@ A key part of building this community is to help connect organisations (e.g. cha
 
 </p>
 
-<div style="display: flex;">
-<a href="pages/Events/Jan25.qmd#" style="margin-right: 25px;margin-left: 35px;">
-<button type="button" class="btn btn-success btn-lg">Annual Meeting 2025</button>
+
+<a href="pages/Events/Jan25.qmd#">
+<button type="button" class="btn btn-success btn-lg">Annual Meeting 2025 - Register Now!</button>
 </a>
 <a href="pages/get_involved.qmd#" > 
 <button type="button" class="btn btn-primary btn-lg">Join The Mailing List!</button>
-
 </a>
-</div>
