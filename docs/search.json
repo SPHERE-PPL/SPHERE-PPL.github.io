@@ -165,7 +165,7 @@
     "href": "pages/Forecasting_Contests/mpox_example.html#how-to-submit",
     "title": "Example - MPox Global Forecasting",
     "section": "How to Submit",
-    "text": "How to Submit\nWe are in the process of building back-end architecture to automatically find all forked repos and enter them into the contest but in the interim, please send an email to jtyler@turing.ac.uk with a link to the public github repo.\nThe entries should be saved in the submission folder with the forecast estimates saved as a csv (i.e. forecast.csv) and the report saved as a pdf, html or a quarto md (i.e. report.pdf, report.html or report.qmd). The forecast estimates must contain three columns: WHO region, month start date and Estimate (see example in the repo)."
+    "text": "How to Submit\nWe are in the process of building back-end architecture to automatically find all forked repos and enter them into the contest but in the interim, please send an email to contest@sphere-ppl.org with a link to the public github repo.\nThe entries should be saved in the submission folder with the forecast estimates saved as a csv (i.e. forecast.csv) and the report saved as a pdf, html or a quarto md (i.e. report.pdf, report.html or report.qmd). The forecast estimates must contain three columns: WHO region, month start date and Estimate (see example in the repo)."
   },
   {
     "objectID": "pages/Forecasting_Contests/mpox_example.html#connect-with-the-community",

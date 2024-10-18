@@ -34,7 +34,7 @@ For this example contest, we are looking to forecast monthly regional case numbe
 
 ## Joining the Contest & Getting Started
 
-The contest repo can be found here: [Contest-Example-Mpox](https://github.com/TuringPPL/Contest-Example-Mpox).
+The contest repo can be found here: [Contest-Example-Mpox](https://github.com/SPHERE-PPL/Competition-Example-Mpox).
 
 The simplest way to get started is to fork this repo and then clone it onto your local machine. This will allow the organisers to see the forks and keep track of entrants. Alternatively, you can download the repo manually and get started. Each entry must be uploaded to a public github repo to be considered (see Rules below)
 
@@ -47,7 +47,7 @@ The simplest way to get started is to fork this repo and then clone it onto your
 
 ## How to Submit
 
-We are in the process of building back-end architecture to automatically find all forked repos and enter them into the contest but in the interim, please send an email to jtyler\@turing.ac.uk with a link to the public github repo.
+We are in the process of building back-end architecture to automatically find all forked repos and enter them into the contest but in the interim, please send an email to [contest@sphere-ppl.org](mailto:contest@sphere-ppl.org) with a link to the public github repo.
 
 The entries should be saved in the submission folder with the forecast estimates saved as a csv (i.e. forecast.csv) and the report saved as a pdf, html or a quarto md (i.e. report.pdf, report.html or report.qmd). The forecast estimates must contain three columns: WHO region, month start date and Estimate (see example in the repo).
 
