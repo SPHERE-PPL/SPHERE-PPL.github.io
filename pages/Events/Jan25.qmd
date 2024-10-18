@@ -1,6 +1,7 @@
 ---
 title: "Annual Meeting -  Health Modelling & Forecasting"
-format: html
+format: 
+  html
 ---
 
 ## **Thursday 23rd January 2025** \| **The Alan Turing Institute**
@@ -36,12 +37,13 @@ After this event, we will organise a series of follow-up on-line events to kick-
 ### Agenda (subject to change) {#sec-agenda}
 
 | Timings | Activity | Description |
-|:---------|:-------------------|------------------------------------|
+|:-----------------|:-------------------|-----------------------------------|
 | 8:30-9:00 | Arrivals & Registration |  |
-| 9:00-9:10 | Welcome & Housekeeping |  |
-| 9:10-9:30 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
-| 9:30-10:00 | Keynote 1 - Dr Lauren Cator | tbc |
-| 10:00-10:30 | Keynote 2 - Dr Will Pearse | How forecasting and probabilistic programming can improve health outcomes |
+| 9:00-9:05 | Welcome & Housekeeping |  |
+| 9:05-9:15 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
+| 9:15-9:40 | Keynote 1 - Dr Lauren Cator | tbc |
+| 9:40-10:05 | Keynote 2 - Dr Will Pearse | How forecasting and probabilistic programming can improve health outcomes |
+| 10:05-10:30 | Keynote 3 - tbc | tbc |
 | 10:30-11:00 | Coffee Break |  |
 | 11:00-12:00 | Break-Out Discussion | Identifying key challenges in health policy |
 | 12:00-12:30 | Break-Out Feedback | 2-minute presentations on challenges |
