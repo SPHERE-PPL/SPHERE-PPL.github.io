@@ -19,7 +19,7 @@ Meeting participants will:
 
 3.  Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
 
-This event and the subsequent forecasting contests have been generously funded by The Alan Turing Institute. For more information, please email [info\@sphere-ppl.org](mailto:info@sphere-ppl.org).
+This event and the subsequent forecasting contests have been funded by The Alan Turing Institute. For more information, please email [info\@sphere-ppl.org](mailto:info@sphere-ppl.org).
 
 ------------------------------------------------------------------------
 
