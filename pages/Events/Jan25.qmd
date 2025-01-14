@@ -37,19 +37,17 @@ After this event, we will organise a series of follow-up on-line events to kick-
 ### Agenda (subject to change) {#sec-agenda}
 
 | Timings | Activity | Description |
-|:------------------|:-------------------|---------------------------------|
-| 8:30-9:00 | Arrivals & Registration |  |
-| 9:00-9:05 | Welcome & Housekeeping |  |
-| 9:05-9:15 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
-| 9:15-9:40 | Keynote 1 - [Dr Hannah Rose Vineer](https://www.liverpool.ac.uk/people/hannah-vineer) | tbc |
-| 9:40-10:05 | Keynote 2 - [Dr Will Pearse](https://pearselab.com/) | How forecasting and probabilistic programming can improve health outcomes |
-| 10:05-10:30 | Keynote 3 - [Dr Richard Wood](https://www.linkedin.com/in/richard-wood-aa647188/) | Insights from Modelling & Analytics within the NHS |
-| 10:30-11:00 | Coffee Break |  |
-| 11:00-12:00 | Break-Out Discussion | Identifying key challenges in health policy |
-| 12:00-12:30 | Break-Out Feedback | 2-minute presentations on challenges |
-| 12:30-13:30 | Lunch |  |
-| 13:30-14:15 | Break-Out Design | Groups design forecasting contests |
-| 14:15-15:00 | Break-Out Feedback | Group feedback and discussion of contest priorities |
+|:-----------------|:------------------------|-----------------------------|
+| 9:30-10:00 | Arrivals & Registration |  |
+| 10:00-10:15 | Introduction from the SPHERE-PPL Team | Meet the team and an introduction to the vision |
+| 10:15-10:40 | Keynote 1 - [Dr Hannah Rose Vineer](https://www.liverpool.ac.uk/people/hannah-vineer) | tbc |
+| 10:40-11:00 | Keynote 2 - [Dr Richard Wood](https://www.linkedin.com/in/richard-wood-aa647188/) | Insights from Modelling & Analytics within the NHS |
+| 11:00-11:30 | Coffee Break |  |
+| 11:30-12:15 | Break-Out Discussion | Identifying key challenges in health policy |
+| 12:15-12:45 | Break-Out Feedback | 2-minute presentations on challenges |
+| 12:45-13:45 | Lunch |  |
+| 13:45-14:30 | Break-Out Design | Groups design forecasting contests |
+| 14:30-15:00 | Break-Out Feedback | Group feedback and discussion of contest priorities |
 | 15:00-15:30 | Coffee Break |  |
 | 15:30-15:40 | Presentation - [Dr Josh Tyler](https://jtyler13.github.io/) | What can SPHERE-PPL do for you? |
 | 15:40-16:00 | Break-Out Discussion | Brainstorming requests for workshops, training and support |
