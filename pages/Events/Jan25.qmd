@@ -21,6 +21,7 @@ Meeting participants will:
 
 This event and the subsequent forecasting contests have been funded by The Alan Turing Institute. For more information, please email [info\@sphere-ppl.org](mailto:info@sphere-ppl.org).
 
+
 ------------------------------------------------------------------------
 
 ### Registration {#sec-reg}
