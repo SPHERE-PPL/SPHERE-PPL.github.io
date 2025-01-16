@@ -47,7 +47,8 @@ After this event, we will organise a series of follow-up on-line events to kick-
 | 11:30-12:15 | Break-Out Discussion | Identifying key challenges in health policy |
 | 12:15-12:45 | Break-Out Feedback | 2-minute presentations on challenges |
 | 12:45-13:45 | Lunch |  |
-| 13:45-14:30 | Break-Out Design | Groups design forecasting contests |
+| 13:45-13:55 | Presentation | Building a Forecasting Contest |
+| 13:55-14:30 | Break-Out Design | Groups design forecasting contests |
 | 14:30-15:00 | Break-Out Feedback | Group feedback and discussion of contest priorities |
 | 15:00-15:30 | Coffee Break |  |
 | 15:30-15:40 | Presentation | What can SPHERE-PPL do for you? |
