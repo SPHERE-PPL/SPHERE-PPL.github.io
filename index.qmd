@@ -25,10 +25,6 @@ A key part of building this community is to help connect organisations (e.g. cha
 
 </p>
 
-
-<a href="https://sphere-ppl.org/Annual-Meeting-Jan25/">
-<button type="button" class="btn btn-success btn-lg">Health Modelling & Forecasting Meeting 2025 - Event Resources</button>
-</a>
 <a href="pages/get_involved.qmd#" > 
 <button type="button" class="btn btn-primary btn-lg">Join The Mailing List!</button>
 </a>
