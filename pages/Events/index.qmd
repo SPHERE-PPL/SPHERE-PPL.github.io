@@ -10,5 +10,5 @@ Every year, the SPHERE-PPL Community, alongside attendees from industry, governm
 ## Calendar
 
 | Event | Time & Date | Location | Status |
-|------------------------|----------------|----------------|----------------|
-| [Annual Meeting - Health Modelling & Forecasting](Jan25.qmd) | 9am - 5pm, Thursday 23rd January 2025 | The Alan Turing Institute | Registration Closed |
+|----------------------|-----------------|-----------------|-----------------|
+| [Annual Meeting - Health Modelling & Forecasting](Jan25.qmd) | 9am - 5pm, Thursday 23rd January 2025 | The Alan Turing Institute | Event Complete |
