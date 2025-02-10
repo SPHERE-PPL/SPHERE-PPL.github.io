@@ -28,3 +28,7 @@ A key part of building this community is to help connect organisations (e.g. cha
 <a href="pages/get_involved.qmd#" > 
 <button type="button" class="btn btn-primary btn-lg">Join The Mailing List!</button>
 </a>
+
+<a href="https://sphereppl.zulipchat.com/join/olwtpi7g3wbyh5mxv4uwipaw/" > 
+<button type="button" class="btn btn-success btn-lg">Join The Zulip!</button>
+</a>
