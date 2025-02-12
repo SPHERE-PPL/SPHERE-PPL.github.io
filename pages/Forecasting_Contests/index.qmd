@@ -9,6 +9,17 @@ More info coming soon!
 
 ## Contest List
 
-| Event | Kick-Off Meeting | Submission Date | Status |
-|:---|:---|:---|:---|
-| [Mpox Global Forecasting](mpox_example.qmd) | NA | NA | Example |
+| Contest | Kick-Off Meeting | Submission Date | Status |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Lyme Disease](https://github.com/SPHERE-PPL/HFC-Lyme-Disease) | tbc | tbc | In Prep |
+| [NHS ICS Future Performance](https://github.com/SPHERE-PPL/HFC-ICS-Future-Performance) | tbc | tbc | In Prep |
+| [NHS 111](https://github.com/SPHERE-PPL/HFC-NHS-111) | tbc | tbc | In Prep |
+| [Mpox Global Forecasting](https://github.com/SPHERE-PPL/Competition-Example-Mpox) | NA | NA | Example |
+
+# DIY Forecasting Contests
+
+You can build your own contests by using two SPHERE-PPL resources:
+
+1\) [Template Contest Repo](https://github.com/SPHERE-PPL/forecasting-contest-template): A template repository with an easy to use folder structure and README.md.
+
+2\) [Forecast AggregatoR App](https://github.com/SPHERE-PPL/Forecast-AggregatoR): an open-source tool for finding all forecasting contest entries on Github.
