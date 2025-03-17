@@ -11,9 +11,7 @@ More info coming soon!
 
 | Contest | Kick-Off Meeting | Submission Date | Status |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| [Lyme Disease](https://github.com/SPHERE-PPL/HFC-Lyme-Disease) | tbc | tbc | In Prep |
-| [NHS ICS Future Performance](https://github.com/SPHERE-PPL/HFC-ICS-Future-Performance) | tbc | tbc | In Prep |
-| [NHS 111](https://github.com/SPHERE-PPL/HFC-NHS-111) | tbc | tbc | In Prep |
+| [Lyme Disease](https://github.com/SPHERE-PPL/HFC-Lyme-Disease) | Monday 31st March 2025 | Friday 30th May 2025 | In Prep |
 | [Mpox Global Forecasting](https://github.com/SPHERE-PPL/Competition-Example-Mpox) | NA | NA | Example |
 
 # DIY Forecasting Contests
