@@ -3,18 +3,34 @@ title: "Forecasting Contests"
 format: html
 ---
 
-## Overview
+# Overview
 
-More info coming soon!
+A core part of the SPHERE-PPL project is to run novel and engaging forecasting contests in the areas of Health, Environment and Spatial analyses. In each of the three years of the programme, alongside key stakeholders in the fields, we will be creating and running 3 contests. The table below has the current and past contests, which are all hosted on GitHub with specific details around what is being forecast and how to take part. Entries can be from teams or individuals from anywhere in the world. We strongly encourage collaboration and submissions from student teams using any methodologies that fall under the "Probabilistic Programming Language" banner.
 
-## Contest List
+# Contests
+
+## Current & Past Contests
 
 | Contest | Kick-Off Meeting | Submission Date | Status |
 |:-----------------|:-----------------|:-----------------|:-----------------|
 | [Lyme Disease](https://github.com/SPHERE-PPL/HFC-Lyme-Disease) | [Monday 31st March 2025](https://events.teams.microsoft.com/event/0b73a64a-b444-407e-8db6-9598c2f08ae2@4395f4a7-e455-4f95-8a9f-1fbaef6384f9) | Friday 30th May 2025 | In Prep |
 | [Mpox Global Forecasting](https://github.com/SPHERE-PPL/Competition-Example-Mpox) | NA | NA | Example |
 
-# DIY Forecasting Contests
+## Quick-start Guide
+
+The team has put together a series of videos that take contest participants through the whole process: from downloading the contest data, creating a forecast and submitting your entry. Follow the links below to find out more:
+
+-   Overview of a Contest
+
+-   Getting the Data
+
+-   Creating a Forecast
+
+-   Writing a Report
+
+-   Submitting your entry
+
+## DIY Forecasting Contests
 
 You can build your own contests by using two SPHERE-PPL resources:
 
