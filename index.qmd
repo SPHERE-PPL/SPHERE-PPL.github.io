@@ -25,10 +25,19 @@ A key part of building this community is to help connect organisations (e.g. cha
 
 </p>
 
+<a href="https://events.teams.microsoft.com/event/0b73a64a-b444-407e-8db6-9598c2f08ae2@4395f4a7-e455-4f95-8a9f-1fbaef6384f9" > 
+<button type="button" class="btn btn-success btn-lg">Register for the Forecasting Contest Webinar - 3pm GMT Monday 31st March 2025</button>
+</a>
+
+
+<p>
+
+</p>
+
 <a href="pages/get_involved.qmd#" > 
-<button type="button" class="btn btn-primary btn-lg">Join The Mailing List!</button>
+<button type="button" class="btn btn-primary">Join The Mailing List!</button>
 </a>
 
 <a href="https://sphereppl.zulipchat.com/join/olwtpi7g3wbyh5mxv4uwipaw/" > 
-<button type="button" class="btn btn-success btn-lg">Join The Zulip!</button>
+<button type="button" class="btn btn-primary">Join The Zulip!</button>
 </a>
