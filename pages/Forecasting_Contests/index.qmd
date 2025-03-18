@@ -20,15 +20,15 @@ A core part of the SPHERE-PPL project is to run novel and engaging forecasting c
 
 The team has put together a series of videos that take contest participants through the whole process: from downloading the contest data, creating a forecast and submitting your entry. Follow the links below to find out more:
 
--   Overview of a Contest
+-   [Overview of a Contest](sphere-ppl.org)
 
--   Getting the Data
+-   [Getting the Data](sphere-ppl.org)
 
--   Creating a Forecast
+-   [Creating a Forecast](sphere-ppl.org)
 
--   Writing a Report
+-   [Writing a Report](sphere-ppl.org)
 
--   Submitting your entry
+-   [Submitting your entry](sphere-ppl.org)
 
 ## DIY Forecasting Contests
 
