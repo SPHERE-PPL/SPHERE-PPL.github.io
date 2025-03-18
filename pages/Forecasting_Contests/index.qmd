@@ -20,9 +20,9 @@ A core part of the SPHERE-PPL project is to run novel and engaging forecasting c
 
 The team has put together a series of videos that take contest participants through the whole process: from downloading the contest data, creating a forecast and submitting your entry. Follow the links below to find out more:
 
--   [Overview of a Contest](sphere-ppl.org)
+-   [Overview of a Contest](https://www.loom.com/share/a823f8fe911846289f7a42854fe6e089?sid=d6ef08f2-118f-4fe2-9f60-413d07394514)
 
--   [Getting the Data](sphere-ppl.org)
+-   [Getting the Data](https://www.loom.com/share/0d808b229fbf4f09a85a2c53f40902bd?sid=87bcf47f-1587-434e-aa6f-3efe8c2c8304)
 
 -   [Creating a Forecast](sphere-ppl.org)
 
