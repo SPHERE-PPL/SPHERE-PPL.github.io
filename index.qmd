@@ -17,7 +17,7 @@ about:
 
 ## SPatial, Health & Environmental REsearch using Probabilistic Programming Languages
 
-The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses, which align with the [Grand Challenges of the Turing Institute](https://www.turing.ac.uk/research). Within this website, you will find pages relating to all of our [meetings and workshops](pages/Events/index.qmd), [forecasting contests](pages/Forecasting_Contests/index.qmd) and [training materials](pages/Resources.qmd).
+The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses. Within this website, you will find pages relating to all of our [meetings and workshops](pages/Events/index.qmd), [forecasting contests](pages/Forecasting_Contests/index.qmd) and [training materials](pages/Resources.qmd).
 
 A key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.
 
@@ -25,8 +25,8 @@ A key part of building this community is to help connect organisations (e.g. cha
 
 </p>
 
-<a href="https://events.teams.microsoft.com/event/0b73a64a-b444-407e-8db6-9598c2f08ae2@4395f4a7-e455-4f95-8a9f-1fbaef6384f9" > 
-<button type="button" class="btn btn-success btn-lg">Register for the Forecasting Contest Webinar - 3pm GMT Monday 31st March 2025</button>
+<a href="https://sphere-ppl.org/pages/Forecasting_Contests/" > 
+<button type="button" class="btn btn-success btn-lg">Take Part In The Lyme Disease Forecasting Contest!</button>
 </a>
 
 
