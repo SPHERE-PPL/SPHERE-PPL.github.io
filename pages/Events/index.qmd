@@ -10,6 +10,6 @@ Every year, the SPHERE-PPL Community, alongside attendees from industry, governm
 ## Calendar
 
 | Event | Time & Date | Location | Status |
-|----------------------|-----------------|-----------------|-----------------|
-| [Lyme Disease Forecasting Contest Kick-Off Webinar](https://drive.google.com/file/d/1cAxYpgOa-HntQI5pp5j08cTpG5ZKr5TX/view?usp=sharing) | 3PM, Monday 31st March 2025 | Online | Event Complete
+|----|----|----|----|
+| [Lyme Disease Forecasting Contest Kick-Off Webinar](https://drive.google.com/file/d/1cAxYpgOa-HntQI5pp5j08cTpG5ZKr5TX/view?usp=sharing) | 3PM, Monday 31st March 2025 | Online | Event Complete |
 | [Annual Meeting - Health Modelling & Forecasting](Jan25.qmd) | 9am - 5pm, Thursday 23rd January 2025 | The Alan Turing Institute | Event Complete |
