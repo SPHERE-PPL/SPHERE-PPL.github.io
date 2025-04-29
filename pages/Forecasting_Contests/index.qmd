@@ -16,6 +16,11 @@ A core part of the SPHERE-PPL project is to run novel and engaging forecasting c
 | [Lyme Disease](https://github.com/SPHERE-PPL/HFC-Lyme-Disease) | [Webinar Recording](https://drive.google.com/file/d/1cAxYpgOa-HntQI5pp5j08cTpG5ZKr5TX/view?usp=sharing) & [Slides](Kick-Off.pdf) | Friday 30th May 2025 | Live |
 | [Mpox Global Forecasting](https://github.com/SPHERE-PPL/Competition-Example-Mpox) | NA | NA | Example |
 
+## Contest Partners
+
+![](images/image.jpeg){width="66"}       
+[VBD Hub](https://vbdhub.org/)
+
 ## Quick-start Guide
 
 The team has put together a series of videos that take contest participants through the whole process: from downloading the contest data, creating a forecast and submitting your entry. Follow the links below to find out more:
