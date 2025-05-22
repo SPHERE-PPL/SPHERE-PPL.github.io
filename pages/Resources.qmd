@@ -9,13 +9,17 @@ As it is hosted on Github, anyone can suggest changes to pages and push them to 
 
 ## Tutorials
 
-### Intro to Bayesian Analysis
 
--   [Statistical Rethinking (Richard McElreath - 2024)](https://github.com/rmcelreath/stat_rethinking_2024)
 
 ### Biodiversity, Ecology & Evolution
 
 -   [PGLMMs For Biodiversity Modelling (Will Pearse - Stancon24)](https://github.com/willpearse/stancon-2024-pglmm)
+-   [Temporal & Spatial Modelling of Disease Vectors - VBD Hub Training](https://sphere-ppl.org/VBD-Hub-Training/)
+
+### Intro to Bayesian Analysis
+
+-   [Statistical Rethinking (Richard McElreath - 2024)](https://github.com/rmcelreath/stat_rethinking_2024)
+
 
 ## Software & Packages
 
