@@ -13,7 +13,7 @@ A core part of the SPHERE-PPL project is to run novel and engaging forecasting c
 
 | Contest | Kick-Off Meeting | Submission Date | Status |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| [Lyme Disease](https://github.com/SPHERE-PPL/HFC-Lyme-Disease) | [Webinar Recording](https://drive.google.com/file/d/1cAxYpgOa-HntQI5pp5j08cTpG5ZKr5TX/view?usp=sharing) & [Slides](Kick-Off.pdf) | Friday 27th June 2025 | Live |
+| [Lyme Disease](https://github.com/SPHERE-PPL/HFC-Lyme-Disease) | [Webinar Recording](https://drive.google.com/file/d/1cAxYpgOa-HntQI5pp5j08cTpG5ZKr5TX/view?usp=sharing) & [Slides](Kick-Off.pdf) | Friday 27th June 2025 | Closed |
 | [Mpox Global Forecasting](https://github.com/SPHERE-PPL/Competition-Example-Mpox) | NA | NA | Example |
 
 ## Contest Partners
