@@ -36,5 +36,5 @@ A key part of building this community is to help connect organisations (e.g. cha
 
 ### Contest Partners
 
-![](pages/images/vbd.jpeg){width="66"}       
+![](pages/images/vbd.jpeg){width="65"}       
 [VBD Hub](https://vbdhub.org/)
