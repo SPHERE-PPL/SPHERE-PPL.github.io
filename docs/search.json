@@ -1,5 +1,110 @@
 [
   {
+    "objectID": "pages/Team.html",
+    "href": "pages/Team.html",
+    "title": "Meet The Team",
+    "section": "",
+    "text": "Dr Will Pearse\nDr Will Pearse is a Reader in Evolutionary Ecology at Imperial College London. His lab develops new statistical and computational methods to better understand how species’ evolutionary history to better understand and predict their present-day ecology. He has worked with AI methods for most of his career, developing automated DNA analysis pipelines, birdsong detectors, and various automated image and video analysis tools. His lab use Probabilistic Programming Languages to solve a variety of statistical modelling problems, notably forecasting COVID-19 dynamics. His research work at the Turing focuses on building a solid research community based around probabilistic programming language by making conceptual advances in climate changes, human health, spatial modelling, forecasting contests to support decision-makers and developing training resources.\n\n\n\n\n\n\n\n\n\nDr Juliette Uniwn\nDr Juliette Unwin is a Lecturer in Statistical Science in the School of Mathematics at the University of Bristol alongside being an Academic Visitor in the Department of Infectious Disease Epidemiology at Imperial College, London. She is an active member of MLGH, the Machine Learning and Global Health Network. She holds a Masters in Engineering from the University of Southampton and a PhD in Engineering from the University of Cambridge. Dr Unwin’s research revolves around developing and applying novel methods for infectious disease outbreak analysis to help inform policy makers in real time. Currently, she focuses on developing spatial temporal renewal based transmission models alongside estimating the number of children affected by COVID-19 and crises. Her research at the Turing focuses on advancing the adoption of Probabilistic Programming languages.\n\n\n\n\n\n\n\n\n\nDr Seth Flaxman\nDr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University. Dr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University.\n\n\n\n\n\n\n\n\n\nDr Josh Tyler\nDr Josh Tyler is a Post Doc at the Turing Institute with a focus on biodiversity and modelling. He is particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity. His current project looks at how we can better use Bayesian methods, such as PGLMMs, to better elucidate patterns in macroecology & macroevolution.\n\n\n\n\n\n\n\n\n\nRuth Drysdale\nRuth is the Programme Manager for the Fundamental Research team at The Alan Turing Institute. This is an emerging area of research that supports the three grand challenges; Defence and national security, Environment and sustainability and Transformation of health. Before joining the institute in 2022, Ruth was a senior Programme Manager at Jisc for 14 years and prior to that at UWE in the Student Experience and IT departments for 9 years."
+  },
+  {
+    "objectID": "pages/get_involved.html",
+    "href": "pages/get_involved.html",
+    "title": "Get Involved",
+    "section": "",
+    "text": "Join the Zulip\nZulip is a messaging and community platform that we will be using to host all Probabilistic Programming discussions. You can sign-up here to join! More information about zulip can be found on their website: https://zulip.com/\n\n\nJoin the Mailing List\nEvery year, there will be workshops, meetings and forecasting challenges designed to further the use of Probabilistic Programming across research, industry and policy.\nTo be kept up-to-date with all the latest news and events, consider signing up to our mailing list using the form below. Details entered here will only be used for our mailing list and no other community platforms. If you would like to be removed from the mailing list, please email info@sphere-ppl.org."
+  },
+  {
+    "objectID": "pages/Events/Jan25.html",
+    "href": "pages/Events/Jan25.html",
+    "title": "Annual Meeting - Health Modelling & Forecasting",
+    "section": "",
+    "text": "Join us for the first SPHERE-PPL Annual Meeting, focussing on Health Modelling & Forecasting!\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been funded by The Alan Turing Institute. For more information, please email info@sphere-ppl.org.\n\n\n\n\nThe presentations & activities can be found here.\nThe event report can be found here.\n\n\n\n\nRegistration for this event is now closed. To be added to the waiting list, please email info@sphere-ppl.org with your details and why you would like to attend.\nAttendance is free but participation is limited to 50 in-person attendees, with an application required (there is no limit on the number of subsequent forecasting contest participants). We will email successful applicants in early December. Attendance is not limited by sector, discipline, background, or career stage. If you use data to ask questions about health, disease, or healthcare operations, this meeting is for you!\nAfter this event, we will organise a series of follow-up on-line events to kick-off the forecasting contests and provide training in forecasting. More details will be shared at the meeting and afterwards on-line: if you can’t make the meeting, join the mailing list to join in!\n\n\n\n\n\n\n\n\nTimings\nActivity\nDescription\n\n\n\n\n9:30-10:00\nArrivals & Registration\n\n\n\n10:00-10:15\nIntroduction from the SPHERE-PPL Team\nMeet the team and an introduction to the vision\n\n\n10:15-10:40\nKeynote 1 - Dr Hannah Rose Vineer\nOne Health Vector-Bourne Disease Hub\n\n\n10:40-11:00\nKeynote 2 - Dr Richard Wood\nInsights from Modelling & Analytics within the NHS\n\n\n11:00-11:30\nCoffee Break\n\n\n\n11:30-12:15\nBreak-Out Discussion\nIdentifying key challenges in health policy\n\n\n12:15-12:45\nBreak-Out Feedback\n2-minute presentations on challenges\n\n\n12:45-13:45\nLunch\n\n\n\n13:45-13:55\nPresentation\nBuilding a Forecasting Contest\n\n\n13:55-14:30\nBreak-Out Design\nGroups design forecasting contests\n\n\n14:30-15:00\nBreak-Out Feedback\nGroup feedback and discussion of contest priorities\n\n\n15:00-15:30\nCoffee Break\n\n\n\n15:30-15:40\nPresentation\nWhat can SPHERE-PPL do for you?\n\n\n15:40-16:00\nBreak-Out Discussion\nBrainstorming requests for workshops, training and support\n\n\n16:00-16:30\nBreak-Out Feedback\nCreating a community priority list\n\n\n16:30-17:00\nWrap-Up\n\n\n\n\n\n\n\n\n\n\nDr Josh Tyler (The Alan Turing Institute)\nDr Will Pearse (Imperial College London)\nDr Ettie Unwin (University of Bristol)\nDr Seth Flaxman (University of Oxford)\nRuth Drysdale (The Alan Turing Institute)\n\n\n\n\n\nFull Address: The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB\nSee the Turing Website for details of transport to the Institute: How to get to the Turing"
+  },
+  {
+    "objectID": "pages/Events/Jan25.html#thursday-23rd-january-2025-the-alan-turing-institute",
+    "href": "pages/Events/Jan25.html#thursday-23rd-january-2025-the-alan-turing-institute",
+    "title": "Annual Meeting - Health Modelling & Forecasting",
+    "section": "",
+    "text": "Join us for the first SPHERE-PPL Annual Meeting, focussing on Health Modelling & Forecasting!\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been funded by The Alan Turing Institute. For more information, please email info@sphere-ppl.org.\n\n\n\n\nThe presentations & activities can be found here.\nThe event report can be found here.\n\n\n\n\nRegistration for this event is now closed. To be added to the waiting list, please email info@sphere-ppl.org with your details and why you would like to attend.\nAttendance is free but participation is limited to 50 in-person attendees, with an application required (there is no limit on the number of subsequent forecasting contest participants). We will email successful applicants in early December. Attendance is not limited by sector, discipline, background, or career stage. If you use data to ask questions about health, disease, or healthcare operations, this meeting is for you!\nAfter this event, we will organise a series of follow-up on-line events to kick-off the forecasting contests and provide training in forecasting. More details will be shared at the meeting and afterwards on-line: if you can’t make the meeting, join the mailing list to join in!\n\n\n\n\n\n\n\n\nTimings\nActivity\nDescription\n\n\n\n\n9:30-10:00\nArrivals & Registration\n\n\n\n10:00-10:15\nIntroduction from the SPHERE-PPL Team\nMeet the team and an introduction to the vision\n\n\n10:15-10:40\nKeynote 1 - Dr Hannah Rose Vineer\nOne Health Vector-Bourne Disease Hub\n\n\n10:40-11:00\nKeynote 2 - Dr Richard Wood\nInsights from Modelling & Analytics within the NHS\n\n\n11:00-11:30\nCoffee Break\n\n\n\n11:30-12:15\nBreak-Out Discussion\nIdentifying key challenges in health policy\n\n\n12:15-12:45\nBreak-Out Feedback\n2-minute presentations on challenges\n\n\n12:45-13:45\nLunch\n\n\n\n13:45-13:55\nPresentation\nBuilding a Forecasting Contest\n\n\n13:55-14:30\nBreak-Out Design\nGroups design forecasting contests\n\n\n14:30-15:00\nBreak-Out Feedback\nGroup feedback and discussion of contest priorities\n\n\n15:00-15:30\nCoffee Break\n\n\n\n15:30-15:40\nPresentation\nWhat can SPHERE-PPL do for you?\n\n\n15:40-16:00\nBreak-Out Discussion\nBrainstorming requests for workshops, training and support\n\n\n16:00-16:30\nBreak-Out Feedback\nCreating a community priority list\n\n\n16:30-17:00\nWrap-Up\n\n\n\n\n\n\n\n\n\n\nDr Josh Tyler (The Alan Turing Institute)\nDr Will Pearse (Imperial College London)\nDr Ettie Unwin (University of Bristol)\nDr Seth Flaxman (University of Oxford)\nRuth Drysdale (The Alan Turing Institute)\n\n\n\n\n\nFull Address: The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB\nSee the Turing Website for details of transport to the Institute: How to get to the Turing"
+  },
+  {
+    "objectID": "pages/Events/index.html",
+    "href": "pages/Events/index.html",
+    "title": "Events",
+    "section": "",
+    "text": "Every year, the SPHERE-PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used."
+  },
+  {
+    "objectID": "pages/Events/index.html#annual-meeting-overview",
+    "href": "pages/Events/index.html#annual-meeting-overview",
+    "title": "Events",
+    "section": "",
+    "text": "Every year, the SPHERE-PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used."
+  },
+  {
+    "objectID": "pages/Events/index.html#calendar",
+    "href": "pages/Events/index.html#calendar",
+    "title": "Events",
+    "section": "Calendar",
+    "text": "Calendar\n\n\n\nEvent\nTime & Date\nLocation\nStatus\n\n\n\n\nLyme Disease Forecasting Contest Kick-Off Webinar\n3PM, Monday 31st March 2025\nOnline\nEvent Complete\n\n\nAnnual Meeting - Health Modelling & Forecasting\n9am - 5pm, Thursday 23rd January 2025\nThe Alan Turing Institute\nEvent Complete\n\n\nAnnual Meeting - Health Modelling & Forecasting\n9am - 5pm, Wednesday 14th January 2026\nThe Alan Turing Institute\nRegistration Open"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SPHERE-PPL",
+    "section": "",
+    "text": "The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses. Within this website, you will find pages relating to all of our meetings and workshops, forecasting contests and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\nRegister for our new forecasting contests\n\n\n Join The Mailing List! \n Join The Zulip! \n\n\n\nVBD Hub"
+  },
+  {
+    "objectID": "index.html#spatial-health-environmental-research-using-probabilistic-programming-languages",
+    "href": "index.html#spatial-health-environmental-research-using-probabilistic-programming-languages",
+    "title": "SPHERE-PPL",
+    "section": "",
+    "text": "The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses. Within this website, you will find pages relating to all of our meetings and workshops, forecasting contests and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\nRegister for our new forecasting contests\n\n\n Join The Mailing List! \n Join The Zulip! \n\n\n\nVBD Hub"
+  },
+  {
+    "objectID": "pages/Resources.html",
+    "href": "pages/Resources.html",
+    "title": "Resources & Training",
+    "section": "",
+    "text": "As it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action. If you would like to have a resouce linked on this page, please send an email or raise an issue on github."
+  },
+  {
+    "objectID": "pages/Resources.html#adding-new-resources",
+    "href": "pages/Resources.html#adding-new-resources",
+    "title": "Resources & Training",
+    "section": "",
+    "text": "As it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action. If you would like to have a resouce linked on this page, please send an email or raise an issue on github."
+  },
+  {
+    "objectID": "pages/Resources.html#tutorials",
+    "href": "pages/Resources.html#tutorials",
+    "title": "Resources & Training",
+    "section": "Tutorials",
+    "text": "Tutorials\n\nBiodiversity, Ecology & Evolution\n\nPGLMMs For Biodiversity Modelling (Will Pearse - Stancon24)\nTemporal & Spatial Modelling of Disease Vectors - VBD Hub Training\n\n\n\nIntro to Bayesian Analysis\n\nStatistical Rethinking (Richard McElreath - 2024)"
+  },
+  {
+    "objectID": "pages/Resources.html#software-packages",
+    "href": "pages/Resources.html#software-packages",
+    "title": "Resources & Training",
+    "section": "Software & Packages",
+    "text": "Software & Packages\n\nCore Platforms\n\nStan Homepage\n\n\n\nR Packages\n\nbrms\nRStan\nCmdStanR\n\n\n\nJulia Packages\n\nTuring.jl"
+  },
+  {
+    "objectID": "pages/Events/Jan26.html",
+    "href": "pages/Events/Jan26.html",
+    "title": "Annual Meeting - Environmental Modelling & Forecasting",
+    "section": "",
+    "text": "Join us for the second SPHERE-PPL Annual Meeting, a full-day gathering dedicated to advancing environmental modelling and forecasting. This event will bring together experts from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within environmental science.\nParticipants will have the opportunity to:\n- Network with policy specialists and data scientists to discuss issues through a common language\n\n- Identify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact\n\n- Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\nKeynote speakers will be announced closer to the time.\nThis event—and the forecasting contests that follow—are funded by The Alan Turing Institute.\nFor more information, contact info@sphere-ppl.org.\n\n\n\n\nTo register for this event please fill out this form with your details and why you would like to attend.\nAttendance is free but participation is limited to 50 in-person attendees, with an application required (there is no limit on the number of subsequent forecasting contest participants). We will email successful applicants in early December. Attendance is not limited by sector, discipline, background, or career stage. If you use data to ask questions about the environment or agriculture this meeting is for you!\nAfter this event, we will organise a series of follow-up on-line events to kick-off the forecasting contests and provide training in forecasting. More details will be shared at the meeting and afterwards on-line: if you can’t make the meeting, join the mailing list to join in!\n\n\n\n\n\nDr Alex Rabeau (Imperial College London)\nDr Will Pearse (Imperial College London)\nDr Ettie Unwin (University of Bristol)\nDr Seth Flaxman (University of Oxford)\nRuth Drysdale (The Alan Turing Institute)\n\n\n\n\n\nFull Address: The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB\nSee the Turing Website for details of transport to the Institute: How to get to the Turing"
+  },
+  {
+    "objectID": "pages/Events/Jan26.html#wednesday-14th-january-2026-the-alan-turing-institute",
+    "href": "pages/Events/Jan26.html#wednesday-14th-january-2026-the-alan-turing-institute",
+    "title": "Annual Meeting - Environmental Modelling & Forecasting",
+    "section": "",
+    "text": "Join us for the second SPHERE-PPL Annual Meeting, a full-day gathering dedicated to advancing environmental modelling and forecasting. This event will bring together experts from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within environmental science.\nParticipants will have the opportunity to:\n- Network with policy specialists and data scientists to discuss issues through a common language\n\n- Identify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact\n\n- Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\nKeynote speakers will be announced closer to the time.\nThis event—and the forecasting contests that follow—are funded by The Alan Turing Institute.\nFor more information, contact info@sphere-ppl.org.\n\n\n\n\nTo register for this event please fill out this form with your details and why you would like to attend.\nAttendance is free but participation is limited to 50 in-person attendees, with an application required (there is no limit on the number of subsequent forecasting contest participants). We will email successful applicants in early December. Attendance is not limited by sector, discipline, background, or career stage. If you use data to ask questions about the environment or agriculture this meeting is for you!\nAfter this event, we will organise a series of follow-up on-line events to kick-off the forecasting contests and provide training in forecasting. More details will be shared at the meeting and afterwards on-line: if you can’t make the meeting, join the mailing list to join in!\n\n\n\n\n\nDr Alex Rabeau (Imperial College London)\nDr Will Pearse (Imperial College London)\nDr Ettie Unwin (University of Bristol)\nDr Seth Flaxman (University of Oxford)\nRuth Drysdale (The Alan Turing Institute)\n\n\n\n\n\nFull Address: The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB\nSee the Turing Website for details of transport to the Institute: How to get to the Turing"
+  },
+  {
     "objectID": "pages/Forecasting_Contests/index.html",
     "href": "pages/Forecasting_Contests/index.html",
     "title": "Forecasting Contests",
@@ -35,101 +140,10 @@
     "text": "DIY Forecasting Contests\nYou can build your own contests by using two SPHERE-PPL resources:\n1) Template Contest Repo: A template repository with an easy to use folder structure and README.md.\n2) Forecast AggregatoR App: an open-source tool for finding all forecasting contest entries on Github."
   },
   {
-    "objectID": "pages/Events/Jan25.html",
-    "href": "pages/Events/Jan25.html",
-    "title": "Annual Meeting - Health Modelling & Forecasting",
-    "section": "",
-    "text": "Join us for the first SPHERE-PPL Annual Meeting, focussing on Health Modelling & Forecasting!\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been funded by The Alan Turing Institute. For more information, please email info@sphere-ppl.org.\n\n\n\n\nThe presentations & activities can be found here.\nThe event report can be found here.\n\n\n\n\nRegistration for this event is now closed. To be added to the waiting list, please email info@sphere-ppl.org with your details and why you would like to attend.\nAttendance is free but participation is limited to 50 in-person attendees, with an application required (there is no limit on the number of subsequent forecasting contest participants). We will email successful applicants in early December. Attendance is not limited by sector, discipline, background, or career stage. If you use data to ask questions about health, disease, or healthcare operations, this meeting is for you!\nAfter this event, we will organise a series of follow-up on-line events to kick-off the forecasting contests and provide training in forecasting. More details will be shared at the meeting and afterwards on-line: if you can’t make the meeting, join the mailing list to join in!\n\n\n\n\n\n\n\n\nTimings\nActivity\nDescription\n\n\n\n\n9:30-10:00\nArrivals & Registration\n\n\n\n10:00-10:15\nIntroduction from the SPHERE-PPL Team\nMeet the team and an introduction to the vision\n\n\n10:15-10:40\nKeynote 1 - Dr Hannah Rose Vineer\nOne Health Vector-Bourne Disease Hub\n\n\n10:40-11:00\nKeynote 2 - Dr Richard Wood\nInsights from Modelling & Analytics within the NHS\n\n\n11:00-11:30\nCoffee Break\n\n\n\n11:30-12:15\nBreak-Out Discussion\nIdentifying key challenges in health policy\n\n\n12:15-12:45\nBreak-Out Feedback\n2-minute presentations on challenges\n\n\n12:45-13:45\nLunch\n\n\n\n13:45-13:55\nPresentation\nBuilding a Forecasting Contest\n\n\n13:55-14:30\nBreak-Out Design\nGroups design forecasting contests\n\n\n14:30-15:00\nBreak-Out Feedback\nGroup feedback and discussion of contest priorities\n\n\n15:00-15:30\nCoffee Break\n\n\n\n15:30-15:40\nPresentation\nWhat can SPHERE-PPL do for you?\n\n\n15:40-16:00\nBreak-Out Discussion\nBrainstorming requests for workshops, training and support\n\n\n16:00-16:30\nBreak-Out Feedback\nCreating a community priority list\n\n\n16:30-17:00\nWrap-Up\n\n\n\n\n\n\n\n\n\n\nDr Josh Tyler (The Alan Turing Institute)\nDr Will Pearse (Imperial College London)\nDr Ettie Unwin (University of Bristol)\nDr Seth Flaxman (University of Oxford)\nRuth Drysdale (The Alan Turing Institute)\n\n\n\n\n\nFull Address: The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB\nSee the Turing Website for details of transport to the Institute: How to get to the Turing"
-  },
-  {
-    "objectID": "pages/Events/Jan25.html#thursday-23rd-january-2025-the-alan-turing-institute",
-    "href": "pages/Events/Jan25.html#thursday-23rd-january-2025-the-alan-turing-institute",
-    "title": "Annual Meeting - Health Modelling & Forecasting",
-    "section": "",
-    "text": "Join us for the first SPHERE-PPL Annual Meeting, focussing on Health Modelling & Forecasting!\nThis full-day event will bring together experts in a range of fields from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within health.\nMeeting participants will:\n\nNetwork with policy specialists and data scientists to discuss issues through a common language\nIdentify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact.\nPrioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required\n\nThis event and the subsequent forecasting contests have been funded by The Alan Turing Institute. For more information, please email info@sphere-ppl.org.\n\n\n\n\nThe presentations & activities can be found here.\nThe event report can be found here.\n\n\n\n\nRegistration for this event is now closed. To be added to the waiting list, please email info@sphere-ppl.org with your details and why you would like to attend.\nAttendance is free but participation is limited to 50 in-person attendees, with an application required (there is no limit on the number of subsequent forecasting contest participants). We will email successful applicants in early December. Attendance is not limited by sector, discipline, background, or career stage. If you use data to ask questions about health, disease, or healthcare operations, this meeting is for you!\nAfter this event, we will organise a series of follow-up on-line events to kick-off the forecasting contests and provide training in forecasting. More details will be shared at the meeting and afterwards on-line: if you can’t make the meeting, join the mailing list to join in!\n\n\n\n\n\n\n\n\nTimings\nActivity\nDescription\n\n\n\n\n9:30-10:00\nArrivals & Registration\n\n\n\n10:00-10:15\nIntroduction from the SPHERE-PPL Team\nMeet the team and an introduction to the vision\n\n\n10:15-10:40\nKeynote 1 - Dr Hannah Rose Vineer\nOne Health Vector-Bourne Disease Hub\n\n\n10:40-11:00\nKeynote 2 - Dr Richard Wood\nInsights from Modelling & Analytics within the NHS\n\n\n11:00-11:30\nCoffee Break\n\n\n\n11:30-12:15\nBreak-Out Discussion\nIdentifying key challenges in health policy\n\n\n12:15-12:45\nBreak-Out Feedback\n2-minute presentations on challenges\n\n\n12:45-13:45\nLunch\n\n\n\n13:45-13:55\nPresentation\nBuilding a Forecasting Contest\n\n\n13:55-14:30\nBreak-Out Design\nGroups design forecasting contests\n\n\n14:30-15:00\nBreak-Out Feedback\nGroup feedback and discussion of contest priorities\n\n\n15:00-15:30\nCoffee Break\n\n\n\n15:30-15:40\nPresentation\nWhat can SPHERE-PPL do for you?\n\n\n15:40-16:00\nBreak-Out Discussion\nBrainstorming requests for workshops, training and support\n\n\n16:00-16:30\nBreak-Out Feedback\nCreating a community priority list\n\n\n16:30-17:00\nWrap-Up\n\n\n\n\n\n\n\n\n\n\nDr Josh Tyler (The Alan Turing Institute)\nDr Will Pearse (Imperial College London)\nDr Ettie Unwin (University of Bristol)\nDr Seth Flaxman (University of Oxford)\nRuth Drysdale (The Alan Turing Institute)\n\n\n\n\n\nFull Address: The Alan Turing Institute, British Library, 96 Euston Rd, London NW1 2DB\nSee the Turing Website for details of transport to the Institute: How to get to the Turing"
-  },
-  {
-    "objectID": "pages/get_involved.html",
-    "href": "pages/get_involved.html",
-    "title": "Get Involved",
-    "section": "",
-    "text": "Join the Zulip\nZulip is a messaging and community platform that we will be using to host all Probabilistic Programming discussions. You can sign-up here to join! More information about zulip can be found on their website: https://zulip.com/\n\n\nJoin the Mailing List\nEvery year, there will be workshops, meetings and forecasting challenges designed to further the use of Probabilistic Programming across research, industry and policy.\nTo be kept up-to-date with all the latest news and events, consider signing up to our mailing list using the form below. Details entered here will only be used for our mailing list and no other community platforms. If you would like to be removed from the mailing list, please email info@sphere-ppl.org."
-  },
-  {
     "objectID": "pages/Mission.html",
     "href": "pages/Mission.html",
     "title": "Our Vision",
     "section": "",
     "text": "A UK Spatial, Climate, & Health Probabilistic Programming Language Community\n\n\n\n\n\nFor the UK to achieve global leadership in Probabilistic Programming Languages (PPL), it is necessary to cultivate a self-sustaining research community. The project team will help realise this vision by supporting:\n\nConceptual advances in focal research areas of strategic importance to the UK (climate, health, and spatial modelling)\nForecasting contests to build a community based around addressing policy needs\nIn-person and online training sessions\n\nThis work, in conjunction with researchers and students at Imperial College London, University of Oxford and University of Bristol, will create a legacy of PPL leadership in the UK.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link on the homepage."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SPHERE-PPL",
-    "section": "",
-    "text": "The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses. Within this website, you will find pages relating to all of our meetings and workshops, forecasting contests and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n Join The Mailing List! \n Join The Zulip! \n\n\n\nVBD Hub"
-  },
-  {
-    "objectID": "index.html#spatial-health-environmental-research-using-probabilistic-programming-languages",
-    "href": "index.html#spatial-health-environmental-research-using-probabilistic-programming-languages",
-    "title": "SPHERE-PPL",
-    "section": "",
-    "text": "The purpose of this community is to accelerate use of probabilistic programming languages in research & policy to drive understanding and innovation. Our core areas of focus are Health, Climate & Environment, and Spatial analyses. Within this website, you will find pages relating to all of our meetings and workshops, forecasting contests and training materials.\nA key part of building this community is to help connect organisations (e.g. charities, NGOs, Government departments) with analytical and research capabilities to help inform policy and develop knowledge. If you have an area of interest that would benefit from connecting with this network, please send us an email using the link below.\n\n\n Join The Mailing List! \n Join The Zulip! \n\n\n\nVBD Hub"
-  },
-  {
-    "objectID": "pages/Team.html",
-    "href": "pages/Team.html",
-    "title": "Meet The Team",
-    "section": "",
-    "text": "Dr Will Pearse\nDr Will Pearse is a Reader in Evolutionary Ecology at Imperial College London. His lab develops new statistical and computational methods to better understand how species’ evolutionary history to better understand and predict their present-day ecology. He has worked with AI methods for most of his career, developing automated DNA analysis pipelines, birdsong detectors, and various automated image and video analysis tools. His lab use Probabilistic Programming Languages to solve a variety of statistical modelling problems, notably forecasting COVID-19 dynamics. His research work at the Turing focuses on building a solid research community based around probabilistic programming language by making conceptual advances in climate changes, human health, spatial modelling, forecasting contests to support decision-makers and developing training resources.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Juliette Uniwn\nDr Juliette Unwin is a Lecturer in Statistical Science in the School of Mathematics at the University of Bristol alongside being an Academic Visitor in the Department of Infectious Disease Epidemiology at Imperial College, London. She is an active member of MLGH, the Machine Learning and Global Health Network. She holds a Masters in Engineering from the University of Southampton and a PhD in Engineering from the University of Cambridge. Dr Unwin’s research revolves around developing and applying novel methods for infectious disease outbreak analysis to help inform policy makers in real time. Currently, she focuses on developing spatial temporal renewal based transmission models alongside estimating the number of children affected by COVID-19 and crises. Her research at the Turing focuses on advancing the adoption of Probabilistic Programming languages.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Seth Flaxman\nDr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University. Dr Seth Flaxman is an associate professor in the Department of Computer Science at the University of Oxford and a tutorial fellow of Jesus College. He completed a BA in Mathematics and Computer Science at Harvard College and a PhD in Machine Learning and Public Policy at Carnegie Mellon University.\n\n\n\n\n\n\n\n\n\n\n\n\nDr Josh Tyler\nDr Josh Tyler is a Post Doc at the Turing Institute with a focus on biodiversity and modelling. He is particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity. His current project looks at how we can better use Bayesian methods, such as PGLMMs, to better elucidate patterns in macroecology & macroevolution.\n\n\n\n\n\n\n\n\n\n\n\n\nRuth Drysdale\nRuth is the Programme Manager for the Fundamental Research team at The Alan Turing Institute. This is an emerging area of research that supports the three grand challenges; Defence and national security, Environment and sustainability and Transformation of health. Before joining the institute in 2022, Ruth was a senior Programme Manager at Jisc for 14 years and prior to that at UWE in the Student Experience and IT departments for 9 years."
-  },
-  {
-    "objectID": "pages/Events/index.html",
-    "href": "pages/Events/index.html",
-    "title": "Events",
-    "section": "",
-    "text": "Every year, the SPHERE-PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used."
-  },
-  {
-    "objectID": "pages/Events/index.html#annual-meeting-overview",
-    "href": "pages/Events/index.html#annual-meeting-overview",
-    "title": "Events",
-    "section": "",
-    "text": "Every year, the SPHERE-PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used."
-  },
-  {
-    "objectID": "pages/Events/index.html#calendar",
-    "href": "pages/Events/index.html#calendar",
-    "title": "Events",
-    "section": "Calendar",
-    "text": "Calendar\n\n\n\nEvent\nTime & Date\nLocation\nStatus\n\n\n\n\nLyme Disease Forecasting Contest Kick-Off Webinar\n3PM, Monday 31st March 2025\nOnline\nEvent Complete\n\n\nAnnual Meeting - Health Modelling & Forecasting\n9am - 5pm, Thursday 23rd January 2025\nThe Alan Turing Institute\nEvent Complete"
-  },
-  {
-    "objectID": "pages/Resources.html",
-    "href": "pages/Resources.html",
-    "title": "Resources & Training",
-    "section": "",
-    "text": "As it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action. If you would like to have a resouce linked on this page, please send an email or raise an issue on github."
-  },
-  {
-    "objectID": "pages/Resources.html#adding-new-resources",
-    "href": "pages/Resources.html#adding-new-resources",
-    "title": "Resources & Training",
-    "section": "",
-    "text": "As it is hosted on Github, anyone can suggest changes to pages and push them to the main branch. This is particularly important for the Resources and Training page, where we hope to build a wide collection of tutorials and examples of PPLs in action. If you would like to have a resouce linked on this page, please send an email or raise an issue on github."
-  },
-  {
-    "objectID": "pages/Resources.html#tutorials",
-    "href": "pages/Resources.html#tutorials",
-    "title": "Resources & Training",
-    "section": "Tutorials",
-    "text": "Tutorials\n\nBiodiversity, Ecology & Evolution\n\nPGLMMs For Biodiversity Modelling (Will Pearse - Stancon24)\nTemporal & Spatial Modelling of Disease Vectors - VBD Hub Training\n\n\n\nIntro to Bayesian Analysis\n\nStatistical Rethinking (Richard McElreath - 2024)"
-  },
-  {
-    "objectID": "pages/Resources.html#software-packages",
-    "href": "pages/Resources.html#software-packages",
-    "title": "Resources & Training",
-    "section": "Software & Packages",
-    "text": "Software & Packages\n\nCore Platforms\n\nStan Homepage\n\n\n\nR Packages\n\nbrms\nRStan\nCmdStanR\n\n\n\nJulia Packages\n\nTuring.jl"
   }
 ]
