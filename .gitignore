@@ -7,3 +7,5 @@
 pages/.DS_Store
 docs/CNAME
 .DS_Store
+
+**/*.quarto_ipynb

@@ -7,10 +7,14 @@ format: html
 
 Every year, the SPHERE-PPL Community, alongside attendees from industry, government and charities, will meet for a day-long workshop to help build relationships and drive the direction of the community. The workshop will feature keynote talks on topics within Health, Environment and Spatial Analyses and will be followed by a series of breakout sessions to help determine the themes for the upcoming forecasting contests. There will also be a follow-up on-line session approximately a week after the workshop to finalise the themes and contest details, alongside providing initial training on the datasets and tools that will be used.
 
+#### Upcoming Event  
+##### *Environmental Forecasting – January 2026*
+Our next gathering—the second SPHERE-PPL Annual Meeting—will take place in January 2026, with a focus on advancing environmental modelling and forecasting. This full-day event will bring together experts from academia, industry, and government to share insights, explore collaboration opportunities, and shape the direction of upcoming forecasting contests. Make sure to register below!
+
 ## Calendar
 
 | Event | Time & Date | Location | Status |
 |----|----|----|----|
 | [Lyme Disease Forecasting Contest Kick-Off Webinar](https://drive.google.com/file/d/1cAxYpgOa-HntQI5pp5j08cTpG5ZKr5TX/view?usp=sharing) | 3PM, Monday 31st March 2025 | Online | Event Complete |
 | [Annual Meeting - Health Modelling & Forecasting](Jan25.qmd) | 9am - 5pm, Thursday 23rd January 2025 | The Alan Turing Institute | Event Complete |
-| [Annual Meeting - Health Modelling & Forecasting](Jan26.qmd) | 9am - 5pm, Wednesday 14th January 2026 | The Alan Turing Institute | Registration Open |
+| [Annual Meeting - Environmental Modelling & Forecasting](Jan26.qmd) | 9am - 5pm, Wednesday 14th January 2026 | The Alan Turing Institute | Registration Open |
