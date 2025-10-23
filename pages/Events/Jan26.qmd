@@ -12,11 +12,9 @@ Join us for the second SPHERE-PPL Annual Meeting, a full-day gathering dedicated
 
 Participants will have the opportunity to:
 
-	- Network with policy specialists and data scientists to discuss issues through a common language
-
-	- Identify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact
-
-	- Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
+-   Network with policy specialists and data scientists to discuss issues through a common language
+-   Identify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact
+-   Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
 
 
 Keynote speakers will be announced closer to the time.
