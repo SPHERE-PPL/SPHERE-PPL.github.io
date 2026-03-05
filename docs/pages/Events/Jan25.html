@@ -626,6 +626,15 @@ ul.task-list li input[type="checkbox"] {
           for (const child of el.children) {
             stripColumnClz(child);
           }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
         }
       }
       stripColumnClz(note)
