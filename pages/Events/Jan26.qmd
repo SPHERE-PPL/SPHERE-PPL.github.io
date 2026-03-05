@@ -9,15 +9,10 @@ format: html
 
 Join us for the second SPHERE-PPL Annual Meeting, a full-day gathering dedicated to advancing environmental modelling and forecasting. This event will bring together experts from industry, academia, and government to discuss cutting-edge research and explore collaborative opportunities within environmental science. 
 
-
-Participants will have the opportunity to:
-
--   Network with policy specialists and data scientists to discuss issues through a common language
--   Identify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact
--   Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required
-
-
-Keynote speakers will be announced closer to the time.
+Participants will have the opportunity to:  
+• Network with policy specialists and data scientists to discuss issues through a common language.  
+• Identify forecasting contests that the SPHERE-PPL Community will undertake, and contribute to the design and outcomes of these endeavours to maximise their impact.  
+• Prioritise the training and support provided by SPHERE-PPL to the community to expedite the development of analytical capabilities where they are most urgently required.
 
 This event—and the forecasting contests that follow—are funded by The Alan Turing Institute.
 
@@ -26,13 +21,51 @@ For more information, contact info@sphere-ppl.org.
 
 ------------------------------------------------------------------------
 
+### Resources {#sec-resources}
+
+The presentations & activities can be found [here](https://sphere-ppl.org/Annual-Meeting-Jan26/).
+
+The event report can be found [here](SPHERE_AnnualMeetingJan2026report.pdf).
+
+
+------------------------------------------------------------------------
+
 ### Registration {#sec-reg}
 
-To register for this event please [fill out this form](https://forms.gle/iy6jC3Xg3QrTjBM67) with your details and why you would like to attend.
+Registration for this event is now closed.
 
 Attendance is free but participation is limited to 50 in-person attendees, with an application required (there is no limit on the number of subsequent forecasting contest participants). We will email successful applicants in early December. Attendance is not limited by sector, discipline, background, or career stage. If you use data to ask questions about the environment or agriculture this meeting is for you!
 
 After this event, we will organise a series of follow-up on-line events to kick-off the forecasting contests and provide training in forecasting. More details will be shared at the meeting and afterwards on-line: if you can't make the meeting, [join the mailing list](https://sphere-ppl.org/pages/get_involved.html) to join in!
+
+
+------------------------------------------------------------------------
+
+### Agenda (subject to change) {#sec-agenda}
+
+::: {#target-container style="font-size: 0.8em;"}
+| Timings | Activity | Description |
+|:---|:---|----|
+| 9:30-10:00 | Arrivals & Registration |  |
+| 10:00-10:15 | Introduction from the SPHERE-PPL Team - Will Pearse | Meet the team and an introduction to the vision |
+| 10:15-10:40 | Keynote 1 - [Julie Smith](https://adas.co.uk/team/julie-smith/) | ADAS |
+| 10:40-11:00 | Keynote 2 - [Dr Robin Freeman](https://www.zsl.org/about-zsl/our-people/dr-robin-freeman) | Zoological Society of London |
+| 11:00-11:25 | Coffee Break |  |
+| 11:25-11:35 | Presentation - Rich Wood | Forecasting Severe System Pressure in the NHS |
+| 11:35-12:20 | Break-Out Discussion | Activity 1 - Identifying key challenges in environmental science |
+| 12:20-12:50 | Break-Out Feedback | 2-minute presentations on challenges |
+| 12:50-13:50 | Lunch |  |
+| 13:50-14:00 | Lyme Disease Contest Prize Giving |  |
+| 14:00-14:10 | Presentation - Will Pearse | Building a Forecasting Contest |
+| 14:10-14:45 | Break-Out Design | Activity 2 - Groups design forecasting contests |
+| 14:45-15:15 | Break-Out Feedback | Group feedback and discussion of contest priorities |
+| 15:15-15:40 | Coffee Break |  |
+| 15:40-16:05 | Keynote 3 - [Dr Eric Daub](https://www.turing.ac.uk/people/researchers/eric-daub) | The Alan Turing Institute |
+| 16:05-16:15 | Presentation - Will Pearse | What can SPHERE-PPL do for you? |
+| 16:15-16:35 | Break-Out Discussion | Activity 3 - Brainstorming requests for workshops, training and support |
+| 16:35-16:55 | Break-Out Feedback | Creating a community priority list |
+| 16:55-17:00 | Wrap-Up |  |
+:::
 
 
 ------------------------------------------------------------------------
@@ -47,7 +80,7 @@ After this event, we will organise a series of follow-up on-line events to kick-
 
 -   Dr Seth Flaxman (University of Oxford)
 
--   Ruth Drysdale (The Alan Turing Institute)
+-   Maya Bronfeld (The Alan Turing Institute)
 
 ------------------------------------------------------------------------
 
