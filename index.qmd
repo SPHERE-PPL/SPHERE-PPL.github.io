@@ -39,3 +39,6 @@ Register for our current [contest](https://github.com/SPHERE-PPL/NHS-EAD-forecas
 
 ![](pages/images/vbd.jpeg){width="65"}       
 [VBD Hub](https://vbdhub.org/)
+
+![](pages/images/nhs.png){width="200"}       
+[NHS Bristol](https://bnssg.icb.nhs.uk/)
