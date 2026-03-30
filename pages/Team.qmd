@@ -28,11 +28,11 @@ Dr Seth Flaxman is an associate professor in the Department of Computer Science 
 :::
 
 ::: {layout="[30,70]"}
-![](images/josh-tyler.jpg)
+![](images/alex-rabeau.jpeg)
 
-### Dr Josh Tyler
+### Dr Alex Rabeau
 
-Dr Josh Tyler is a Post Doc at the Turing Institute with a focus on biodiversity and modelling. He is particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity. His current project looks at how we can better use Bayesian methods, such as PGLMMs, to better elucidate patterns in macroecology & macroevolution.
+Dr Alex Rabeau is a postdoctoral researcher at Imperial College London and the Alan Turing Institute. His PhD research focused on modelling the impacts of climate change on ecosystems using fine-scale ecological niche modelling and trait-based approaches. At the Turing Institute, he coordinates the SPHERE-PPL forecasting contests, which aim to advance the application of AI-driven forecasting methods to environmental and health challenges.
 :::
 
 ::: {layout="[30,70]"}
